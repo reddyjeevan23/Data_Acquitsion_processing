@@ -55,7 +55,7 @@ a)	Comparison Engine – Comparing different mobile models and their features ba
 b)	Business Analysis – It can be used has the source to understand the latest trends in mobile technology, boom factors of mobiles and to analyze the business growth of various mobile brands.
 c)	Individual Analysis - An individual can utilize this data set as for his personal thesis works
 
-## Challenges/Limitations: 
+## Limitations:
 
 Only brands which were available in the website was considered for this project but there are lot more brands whose data is absent in this dataset. 
 In the website, not all the specifications of the mobile are officially verified or guaranteed. So, there are chances of incorrect data in the set. 
