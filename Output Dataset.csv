@@ -1,0 +1,718 @@
+BRAND,MODEL,OS,PRIMARY CAMERA,SELFIE CAMERA,GPU,CPU,INTERNAL MEMORY,SENSORS,BATTERY,PRICE
+Samsung,Galaxy Xcover FieldPro,Android 9.0 (Pie),"12 MP, PDAF",8 MP,Mali-G72 MP18,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55),32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 4500 mAh battery,NA
+Samsung,Galaxy A70s,Android 9.0 (Pie); One UI,"64 MP, f/1.8, (wide), 1/1.7"", 0.8µm, PDAF
+8 MP, f/2.2, 12mm (ultrawide)
+5 MP, f/2.2, depth sensor","32 MP, f/2.0, 25mm (wide), 1/2.8"", 0.8µm",Adreno 612,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),"128GB 6GB RAM, 128GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4500 mAh battery,"₹ 28,999"
+Samsung,Galaxy A20s,Android 9.0 (Pie); One UI,"13 MP, f/1.8, 27mm (wide), PDAF
+8 MP, f/2.2, 13mm (ultrawide)
+5 MP, f/2.2, depth sensor","8 MP, f/2.0",Adreno 506,Octa-core 1.8 GHz Cortex-A53,"32GB 3GB RAM, 64GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,"$ 169.95 / £ 164.18 / € 191.36 / ₹ 11,990"
+Samsung,Galaxy M30s,Android 9.0 (Pie); One UI,"48 MP, f/2.0, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 12mm (ultrawide)
+5 MP, f/2.2, depth sensor","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Mali-G72 MP3,Octa-core (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53),"64GB 4GB RAM, 128GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 6000 mAh battery,"$ 269.00 / £ 216.90 / € 249.00 / ₹ 13,999"
+Samsung,Galaxy M10s,Android 9.0 (Pie),"13 MP, f/1.9, 27mm (wide), 1/3.1"", 1.12µm, PDAF
+5 MP, f/2.2, 12mm (ultrawide)","8 MP, f/2.0",Mali-G71 MP2,Octa-core (2x1.6 GHz Cortex-A73 & 6x1.35 GHz Cortex-A53),32GB 3GB RAM,"Accelerometer, gyro, proximity, compass",Non-removable Li-Ion 4000 mAh battery,"$ 189.99 / £ 149.90 / ₹ 8,499"
+Samsung,Galaxy Fold 5G,Android 9.0 (Pie),"12 MP, f/1.5-2.4, 27mm (wide), 1/2.55"", 1.4µm, Dual Pixel PDAF, OIS
+12 MP, f/2.4, 52mm (telephoto), 1/3.6"", 1.0µm, AF, OIS, 2x optical zoom
+16 MP, f/2.2, 12mm (ultrawide), 1/3.1"", 1.0µm","10 MP, f/2.2, 26mm (wide), 1/3"", 1.22µm
+8 MP, f/1.9, 24mm (wide), 1.22µm, depth sensor
+
+Cover camera:
+10 MP, f/2.2, 26mm (wide), 1/3"", 1.22µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),512GB 12GB RAM,"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 4235 mAh battery,"$ 2,096.98 / £ 1,799.00 / € 2,099.00"
+Samsung,Galaxy Fold,Android 9.0 (Pie),"12 MP, f/1.5-2.4, 27mm (wide), 1/2.55"", 1.4µm, Dual Pixel PDAF, OIS
+12 MP, f/2.4, 52mm (telephoto), 1/3.6"", 1.0µm, AF, OIS, 2x optical zoom
+16 MP, f/2.2, 12mm (ultrawide), 1/3.1"", 1.0µm","10 MP, f/2.2, 26mm (wide), 1/3"", 1.22µm
+8 MP, f/1.9, 24mm (wide), 1.22µm, depth sensor
+
+Cover camera:
+10 MP, f/2.2, 26mm (wide), 1/3"", 1.22µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),512GB 12GB RAM,"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 4380 mAh battery,"$ 2,089.99 / £ 2,088.47 / € 2,099.00"
+Samsung,Galaxy Tab Active Pro,Android 9.0 (Pie),"13 MP, AF",8 MP,Adreno 616,Octa-core (2x2.0 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver),64GB 4GB RAM,"Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 7600 mAh battery,About 600 EUR
+Samsung,Galaxy A90 5G,Android 9.0 (Pie); One UI,"48 MP, f/2.0, 26mm (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 12mm (ultrawide), 1/4.0"", 1.12µm
+5 MP, f/2.2, depth sensor","32 MP, f/2.0, 25mm (wide), 1/2.8"", 0.8µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"128GB 6GB RAM, 128GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4500 mAh battery,$ 599.99 / £ 619.99
+Samsung,Galaxy A30s,Android 9.0 (Pie),"25 MP, f/1.7, PDAF
+8 MP, f/2.2, 13mm (ultrawide)
+5 MP, f/2.2, depth sensor
+","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Mali-G71 MP2,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),"32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM","Fingerprint (under display, optical), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,"$ 223.87 / £ 193.00 / € 212.00 / ₹ 11,498"
+Apple,iPhone 11 Pro Max,"iOS 13, upgradable to iOS 13.2","12 MP, f/1.8, 26mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS
+12 MP, f/2.0, 52mm (telephoto), 1/3.4"", 1.0µm, PDAF, OIS, 2x optical zoom
+12 MP, f/2.4, 13mm (ultrawide)","12 MP, f/2.2, 23mm (wide)
+SL 3D camera",Apple GPU (4-core graphics),Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder),"64GB 4GB RAM, 256GB 4GB RAM, 512GB 4GB RAM","Face ID, accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Ion 3969 mAh battery (15.04 Wh),"$ 1,099.99 / £ 1,079.00 / € 1,199.00 / ₹ 109,900"
+Apple,iPhone 11 Pro,"iOS 13, upgradable to iOS 13.2","12 MP, f/1.8, 26mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS
+12 MP, f/2.0, 52mm (telephoto), 1/3.4"", 1.0µm, PDAF, OIS, 2x optical zoom
+12 MP, f/2.4, 13mm (ultrawide)","12 MP, f/2.2, 23mm (wide)
+SL 3D camera",Apple GPU (4-core graphics),Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder),"64GB 4GB RAM, 256GB 4GB RAM, 512GB 4GB RAM","Face ID, accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Ion 3046 mAh battery (11.67 Wh),"$ 929.99 / £ 1,049.00 / € 1,125.00 / ₹ 99,900"
+Apple,iPhone 11,"iOS 13, upgradable to iOS 13.2","12 MP, f/1.8, 26mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS
+12 MP, f/2.4, 13mm (ultrawide)","12 MP, f/2.2, 23mm (wide)
+SL 3D camera",Apple GPU (4-core graphics),Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder),"64GB 4GB RAM, 128GB 4GB RAM, 256GB 4GB RAM","Face ID, accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Ion 3110 mAh battery (11.91 Wh),"$ 695.00 / £ 699.00 / € 779.00 / ₹ 64,900"
+Apple,iPad 10.2,"iPadOS 13.1, upgradable to iPadOS 13.1.2","8 MP, f/2.4, 31mm (standard), 1.12µm, AF","1.2 MP, f/2.2, 31mm (standard)",PowerVR Series7XT Plus (six-core graphics),Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr),"32GB 3GB RAM, 128GB 3GB RAM","Fingerprint (front-mounted), accelerometer, gyro, compass, barometer",Non-removable Li-Po 8827 mAh battery (32.9 Wh),About 350 EUR
+Apple,Watch Edition Series 5,"watchOS 6.0, upgradable to 6.1",No,NA,PowerVR,NA,32GB,"Accelerometer, gyro, heart rate (2nd gen), barometer, compass",Non-removable Li-Ion battery,About 850 EUR
+Apple,Watch Series 5,"watchOS 6.0, upgradable to 6.1",No,NA,PowerVR,NA,32GB,"Accelerometer, gyro, heart rate (2nd gen), barometer, compass",Non-removable Li-Ion battery,About 750 EUR
+Apple,Watch Series 5 Aluminum,"watchOS 6.0, upgradable to 6.1",No,NA,PowerVR,NA,32GB,"Accelerometer, gyro, heart rate (2nd gen), barometer, compass",Non-removable Li-Ion battery,About 450 EUR
+Apple,iPad Air (2019),"iOS 12.1.3, upgradable to iPadOS 13.1.2","8 MP, f/2.4, 31mm (standard), 1.12µm, AF","7 MP, f/2.2, 31mm (standard)",Apple GPU (4-core graphics),Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest),"64GB 3GB RAM, 256GB 3GB RAM","Fingerprint (front-mounted), accelerometer, gyro, compass, barometer",Non-removable Li-Po 8134 mAh battery (30.8 Wh),About 550 EUR
+Apple,iPad mini (2019),"iOS 12.1.3, upgradable to iPadOS 13.1.2","8 MP, f/2.4, 32mm (standard), 1.12µm, AF","7 MP, f/2.2, 31mm (standard)",Apple GPU (4-core graphics),Hexa-core (2x2.5 GHz Vortex + 4x1.6 GHz Tempest),"64GB 3GB RAM, 256GB 3GB RAM","Fingerprint (front-mounted), accelerometer, gyro, compass, barometer",Non-removable Li-Ion 5124 mAh battery (19.1 Wh),About 450 EUR
+Apple,iPad Pro 12.9 (2018),"iOS 12, upgradable to iPadOS 13.1.2","12 MP, f/1.8, 29mm (standard), 1/3"", 1.22µm, PDAF","7 MP, f/2.2, 32mm (standard)",Apple GPU (7-core graphics),Octa-core (4x2.5 GHz Vortex + 4x1.6 GHz Tempest),"64GB 4GB RAM, 256GB 4GB RAM, 512GB 4GB RAM, 1TB 6GB RAM","Face ID, accelerometer, gyro, proximity, barometer",Non-removable Li-Po 9720 mAh battery (36.71 Wh),About 1100 EUR
+Huawei,nova 6 5G,Android 10; EMUI 10,"40 MP, f/1.8, 27mm (wide), 1/1.7"", PDAF, Laser AF
+8 MP, f/2.4, 80mm (telephoto), 1/4"", PDAF, Laser AF, OIS, 3x optical zoom
+8 MP, f/2.4, 16mm (ultrawide), no AF","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm, PDAF
+8 MP, f/2.2, 17mm (ultrawide)",Mali-G76 MP16,Octa-core (2x2.86 GHz Cortex-A76 & 2x2.09 GHz Cortex-A76 & 4x1.86 GHz Cortex-A55),"128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4200 mAh battery,NA
+Huawei,nova 6,Android 10; EMUI 10,"40 MP, f/1.8, 27mm (wide), 1/1.7"", PDAF, Laser AF
+8 MP, f/2.4, 80mm (telephoto), 1/4"", PDAF, Laser AF, OIS, 3x optical zoom
+8 MP, f/2.4, 16mm (ultrawide), no AF","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm
+8 MP, f/2.2, 17mm (ultrawide)",Mali-G76 MP16,Octa-core (2x2.86 GHz Cortex-A76 & 2x2.09 GHz Cortex-A76 & 4x1.86 GHz Cortex-A55),128GB 8GB RAM,"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4100 mAh battery,NA
+Huawei,nova 6 SE,Android 10; EMUI 10,"48 MP, f/1.8, 26mm (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.4, (ultrawide)
+2 MP, f/2.4, 27mm (wide) dedicated macro camera
+2 MP, f/2.4, depth sensor","16 MP, f/2.0, (wide), 1/3.1"", 1.0µm",Mali-G52 MP6,Octa-core (2x2.27 GHz Cortex-A76 & 6x1.88 GHz Cortex-A55),128GB 8GB RAM,"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4200 mAh battery,About 280 EUR
+Huawei,MatePad Pro,Android 10; EMUI 10,"13 MP, f/1.8, PDAF","8 MP, f/2.0",Mali-G76 MP16,Octa-core (2x2.86 GHz Cortex-A76 & 2x2.09 GHz Cortex-A76 & 4x1.86 GHz Cortex-A55),"128GB 6GB RAM, 256GB 8GB RAM, 512GB 8GB RAM","Accelerometer, gyro, proximity, compass",Non-removable Li-Po 7250 mAh battery,About 450 EUR
+Huawei,Mate X,Android 9.0 (Pie); EMUI 9.1,"40 MP, f/1.8, 27mm (wide), 1/1.7"", PDAF
+8 MP, f/2.4, 52mm (telephoto)
+16 MP, f/2.2, 17mm (ultrawide)
+TOF 3D camera",No - uses main camera,Mali-G76 MP10,Octa-core (2x2.6 GHz Cortex-A76 & 2x1.92 GHz Cortex-A76 & 4x1.8 GHz Cortex-A55),512GB 8GB RAM,"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 4500 mAh battery,About 2150 EUR
+Huawei,Y9s,Android 9.0 (Pie); EMUI 9.1,"48 MP, f/1.8, (wide), 1/2.0"", 0.8µm, PDAF
+8 MP, f/2.4, 13mm (ultrawide)
+2 MP, f/2.4, (depth sensor)","Motorized pop-up 16 MP, f/2.2",Mali-G51 MP4,Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53),128GB 6GB RAM,"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 279.99
+Huawei,nova 5z,"Android 9.0 (Pie), EMUI 9.1","48 MP, f/1.8, 26mm (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.4, (ultrawide)
+2 MP, f/2.4, 27mm (wide) dedicated macro camera
+2 MP, f/2.4, depth sensor","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Mali-G52 MP6,Octa-core (2x2.27 GHz Cortex-A76 & 6x1.88 GHz Cortex-A55),"64GB 6GB RAM, 128GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 206.99
+Huawei,Enjoy 10s,Android 9.0 (Pie); EMUI 9.1,"48 MP, f/1.8, 28mm (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.4, 13mm (ultrawide)
+2 MP, f/2.4, depth sensor","16 MP, f/2.0",Mali-G51 MP4,Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53),64GB 6GB RAM,"Fingerprint (under display, optical), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 200 EUR
+Huawei,Enjoy 10,"Android 9.0 (Pie), EMUI 9.1","48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+2 MP, f/2.4, depth sensor","8 MP, f/2.0",Mali-G51 MP4,Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53),"64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM","Accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 150 EUR
+Huawei,Mate 30 RS Porsche Design,Android 10; EMUI 10,"40 MP, f/1.6, 27mm (wide), 1/1.7"", PDAF, OIS
+8 MP, f/2.4, 80mm (telephoto), 1/4"", PDAF, OIS, 3x optical zoom
+40 MP, f/1.8, 18mm (ultrawide), 1/1.54"", PDAF
+3D TOF camera","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm
+3D TOF camera",Mali-G76 MP16,Octa-core (2x2.86 GHz Cortex-A76 & 2x2.36 GHz Cortex-A76 & 4x1.95 GHz Cortex-A55),512GB 12GB RAM,"Face ID, fingerprint (under display, optical), accelerometer, gyro, proximity, barometer, compass",Non-removable Li-Po 4500 mAh battery,"$ 2,999.99"
+Nokia,2.3,"Android 9.0 (Pie), planned upgrade to Android 10; Android One","13 MP, f/2.2, 1/3.1"", 1.12µm, AF
+2 MP, depth sensor","5 MP, f/2.4",PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,32GB 2GB RAM,"Accelerometer, proximity",Non-removable Li-Po 4000 mAh battery,About 110 EUR
+Nokia,7.2,Android 9.0 (Pie); Android One,"48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide)
+5 MP, depth sensor","20 MP, f/2.0, (wide), 1/3"", 0.9µm",Adreno 512,Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),"64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3500 mAh battery,"$ 329.00 / £ 247.99 / € 269.00 / ₹ 16,459"
+Nokia,6.2,Android 9.0 (Pie); Android One,"16 MP, f/1.8, 27mm (wide), 1.0µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide)
+5 MP, depth sensor","8 MP, f/2.0, 1/4"", 1.12µm",Adreno 509,Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver),"32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3500 mAh battery,"$ 249.00 / £ 204.00 / € 220.51 / ₹ 13,499"
+Nokia,800 Tough,KaiOS,2 MP,No,Adreno 304,Dual-core (2x1.1 GHz Cortex-A7),4GB 512MB,,Non-removable Li-Ion 2100 mAh battery,£ 109.99 / € 114.99
+Nokia,2720 Flip,KaiOS,2 MP,No,Adreno 304,Dual-core (2x1.1 GHz Cortex-A7),4GB 512MB,,Removable Li-Ion 1500 mAh battery (BL-6V),"$ 104.99 / £ 89.99 / € 96.90 / ₹ 8,100"
+Nokia,220 4G,NA,0.3 MP,No,NA,NA,24MB 16MB RAM,,Removable Li-Ion 1200 mAh battery,About 40 EUR
+Nokia,110 (2019),NA,QVGA,No,NA,NA,4MB,,Removable Li-Ion 800 mAh battery,"₹ 1,575"
+Nokia,105 (2019),NA,No,NA,NA,NA,4MB 4MB RAM,,Removable Li-Ion 800 mAh battery,About 10 EUR
+Nokia,3.1 C,Android 9.0 (Pie),"8 MP, f/2.0, AF","5 MP, f/2.2",Adreno 504,Quad-core 1.8 GHz Cortex-A53,32GB 2GB RAM,"Accelerometer, gyro, proximity",Non-removable Li-Ion 2990 mAh battery,NA
+Nokia,3.1 A,Android 9.0 (Pie),"8 MP, f/2.0, AF","5 MP, f/2.2",Adreno 504,Quad-core 1.8 GHz Cortex-A53,32GB 2GB RAM,"Accelerometer, gyro, proximity",Non-removable Li-Ion 2990 mAh battery,NA
+Sony,Xperia 5,"Android 9.0 (Pie), upgradable to Android 10","12 MP, f/1.6, 26mm (wide), 1/2.55"", 1.4µm, predictive Dual Pixel PDAF, 5-axis OIS
+12 MP, f/2.4, 52mm (telephoto), 1/3.4"", 1.0µm, predictive PDAF, 2x optical zoom, 5-axis OIS
+12 MP, f/2.4, 16mm (ultrawide), 1/3.4"", 1.0µm","8 MP, f/2.0, 24mm (wide), 1/4"", 1.12µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),128GB 6GB RAM,"Fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass, color spectrum",Non-removable Li-Ion 3140 mAh battery,$ 697.99 / £ 479.99 / € 600.00
+Sony,Xperia 1,"Android 9.0 (Pie), upgradable to Android 10","12 MP, f/1.6, 26mm (wide), 1/2.55"", 1.4µm, predictive Dual Pixel PDAF, 5-axis OIS
+12 MP, f/2.4, 52mm (telephoto), 1/3.4"", 1.0µm, predictive PDAF, 2x optical zoom, 5-axis OIS
+12 MP, f/2.4, 16mm (ultrawide), 1/3.4"", 1.0µm","8 MP, f/2.0, 24mm (wide), 1/4"", 1.12µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"64GB 6GB RAM, 128GB 6GB RAM","Fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass, color spectrum",Non-removable Li-Ion 3330 mAh battery,$ 718.99 / £ 544.27 / € 707.82
+Sony,Xperia 10 Plus,Android 9.0 (Pie),"12 MP, f/1.8, 27mm (wide), 1/2.8"", 1.25µm, PDAF
+8 MP, f/2.4, 53mm (telephoto), 1/4"", 1.12µm, PDAF, 2x optical zoom","8 MP, f/2.0, 24mm (wide), 1/4"", 1.12µm",Adreno 509,Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver),"64GB 4GB RAM, 64GB 6GB RAM","Fingerprint (side-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 3000 mAh battery,$ 375.80 / £ 268.64
+Sony,Xperia 10,Android 9.0 (Pie),"13 MP, f/2.0, 27mm (wide), 1/3.1"", 1.12µm, PDAF
+5 MP, f/2.4, 22mm (wide), 1/4"", 1.4µm, depth sensor","8 MP, f/2.0, 24mm (wide), 1/4"", 1.12µm",Adreno 508,Octa-core 2.2 GHz Cortex-A53,"64GB 3GB RAM, 64GB 4GB RAM","Fingerprint (side-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 2870 mAh battery,$ 258.46 / £ 189.98 / € 257.00
+Sony,Xperia L3,Android 8.0 (Oreo),"13 MP, f/2.2, 26mm (wide), 1/3.1"", 1.12µm, PDAF
+2 MP, depth sensor","8 MP, f/2.0, 24mm (wide), 1/4"", 1.12µm",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (side-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 3300 mAh battery,£ 139.99 / € 161.49
+Sony,Xperia XA2 Plus,Android 8.0 (Oreo),"23 MP, f/2.0, 24mm (wide), 1/2.3"", PDAF","8 MP, f/2.4, 1/4""",Adreno 508,Octa-core 2.2 GHz Cortex-A53,"32GB 4GB RAM, 64GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 3580 mAh battery,£ 208.57
+Sony,Xperia XZ3,Android 9.0 (Pie),"19 MP, f/2.0, 25mm (wide), 1/2.3"", 1.22µm, predictive PDAF, Laser AF","13 MP, f/1.9, 23mm (wide), 1/3"", 1.12µm",Adreno 630,Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),"64GB 4GB RAM, 64GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, barometer, compass, color spectrum",Non-removable Li-Ion 3300 mAh battery,$ 869.00 / £ 574.65 / € 535.00
+Sony,Xperia XZ2 Premium,"Android 8.0 (Oreo), upgradable to Android 9.0 (Pie)","19 MP, f/1.8, 25mm (wide), 1/2.3"", 1.22µm, predictive PDAF, Laser AF
+12 MP B/W, f/1.6, 1/2.3"", 1.55µm, predictive PDAF, Laser AF","13 MP, f/2.0, 22mm (wide), 1/3"", 1.12µm",Adreno 630,Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),64GB 6GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, barometer, compass, color spectrum",Non-removable Li-Ion 3540 mAh battery,$ 405.27 / £ 419.00 / € 711.69
+Sony,Xperia XZ2,"Android 8.0 (Oreo), upgradable to Android 9.0 (Pie)","19 MP, f/2.0, 25mm (wide), 1/2.3"", 1.22µm, predictive PDAF, Laser AF","5 MP, f/2.2, 1/5""",Adreno 630,Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),"64GB 4GB RAM, 64GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, barometer, compass, color spectrum",Non-removable Li-Ion 3180 mAh battery,$ 258.99 / £ 279.99 / € 369.90
+Sony,Xperia XZ2 Compact,"Android 8.0 (Oreo), upgradable to Android 9.0 (Pie)","19 MP, f/2.0, 25mm (wide), 1/2.3"", 1.22µm, predictive PDAF, Laser AF","5 MP, f/2.2, 23mm (wide), 1/5""",Adreno 630,Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, barometer, compass, color spectrum",Non-removable Li-Ion 2870 mAh battery,$ 854.49 / £ 319.90
+LG,G Pad 5 10.1,Android 9.0 (Pie),"8 MP, AF",5 MP,Adreno 530,Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo),32GB 4GB RAM,"Fingerprint (side-mounted), accelerometer",Non-removable Li-Po 8200 mAh battery,About 340 EUR
+LG,V50S ThinQ 5G,Android 9.0 (Pie); LG UX 9.0,"12 MP, f/1.8, 27mm (standard), 1/2.55"", 1.4µm, Dual pixel PDAF, OIS
+13 MP, f/2.4, 9mm (ultrawide), 1.0µm","32 MP, f/1.9, 26mm (wide), 1/2.8"", 0.8µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),256GB 8GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 4000 mAh battery,About 1100 EUR
+LG,G8X ThinQ,Android 9.0 (Pie); LG UX 9.0,"12 MP, f/1.8, 27mm (standard), 1/2.55"", 1.4µm, Dual pixel PDAF, OIS
+13 MP, f/2.4, 9mm (ultrawide), 1.0µm","32 MP, f/1.9, 26mm (wide), 1/2.8"", 0.8µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),128GB 6GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 4000 mAh battery,€ 794.94
+LG,Q70,Android 9.0 (Pie); LG UX 7,"32 MP, f/1.8, (wide), PDAF
+13 MP, f/2.2, 13mm (ultrawide)
+5 MP, f/2.4, depth sensor","16 MP, f/2.2, (wide), 1/3.1"", 1.0µm",Adreno 612,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 400 EUR
+LG,K30 (2019),Android 9.0 (Pie),"8 MP, f/2.0, 27mm (wide), 1/4.0"", 1.12µm, AF","5 MP, f/2.2, 24mm (wide), 1/5"", 1.12µm",Adreno 308,Quad-core 1.4 GHz Cortex-A53,16GB 2GB RAM,"Accelerometer, proximity",Non-removable Li-Ion 3000 mAh battery,About 140 EUR
+LG,K20 (2019),Android 9.0 Pie (Go edition),"8 MP, f/2.0, 27mm (wide), 1/4.0"", 1.12µm, AF","5 MP, f/2.2, 24mm (wide), 1/5"", 1.12µm",PowerVR GE8100,Quad-core 1.5 GHz Cortex-A53,16GB 1GB RAM,"Accelerometer, proximity",Non-removable Li-Ion 3000 mAh battery,About 100 EUR
+LG,K40S,Android 9.0 (Pie),"13 MP, f/2.2, 26mm (wide), PDAF
+5 MP, (ultrawide)","13 MP, f/2.0",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,"32GB 2GB RAM, 32GB 3GB RAM","Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 3500 mAh battery,About 160 EUR
+LG,K50S,Android 9.0 (Pie),"13 MP, f/2.2, 26mm (wide), PDAF
+5 MP, (ultrawide)
+2 MP, f/2.4 depth sensor","13 MP, f/2.0",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 4000 mAh battery,About 200 EUR
+LG,W30 Pro,Android 9.0 (Pie),"13 MP, PDAF
+8 MP, 13mm (ultrawide)
+5 MP, depth sensor","16 MP, f/2.2, (wide), 1/3.1"", 1.0µm",Adreno 506,Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity",Non-removable Li-Po 4050 mAh battery,"₹ 12,490"
+LG,W30,Android 9.0 (Pie),"12 MP, PDAF
+13 MP, (wide), AF
+2 MP, depth sensor","16 MP, f/2.2, (wide), 1/3.1"", 1.0µm",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity",Non-removable Li-Po 4000 mAh battery,"$ 163.99 / £ 137.82 / € 160.64 / ₹ 9,999"
+HTC,Desire 19s,Android 9 (Pie),"13 MP, f/1.9, 26mm (wide), PDAF
+5 MP, f/2.2, 13mm (ultrawide)
+5 MP, f/2.2, depth sensor","16 MP, f/2.0, 27mm (wide), 1/3.1"", 1.0µm",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 3850 mAh battery,About 180 EUR
+HTC,Exodus 1s,Android 8.1 (Oreo),"13 MP, PDAF",13 MP,Adreno 505,Octa-core 1.4 GHz Cortex-A53,64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 3075 mAh battery,About 220 EUR
+HTC,Wildfire X,Android 9 (Pie),"12 MP, (wide), 1/2.8"", 1.25µm, PDAF
+8 MP, (telephoto), 2x optical zoom
+5 MP, depth sensor",8 MP,PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,"32GB 3GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity",Non-removable Li-Po 3300 mAh battery,"$ 218.00 / £ 158.90 / ₹ 10,999"
+HTC,U19e,Android 9.0 (Pie); HTC Sense,"12 MP, f/1.8, 26mm (wide), PDAF
+20 MP, f/2.6, 52mm (telephoto), 2x optical zoom","24 MP, f/2.0, 26mm (wide), 1/2.8"", 0.9µm
+2 MP, f/2.2 (depth sensor)",Adreno 616,Octa-core (2x2.2 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver),128GB 6GB RAM,"Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3930 mAh battery,About 420 EUR
+HTC,Desire 19+,Android 9 (Pie),"13 MP, f/1.9, 26mm (wide), PDAF
+8 MP, f/2.2, 13mm (ultrawide)
+5 MP, f/2.2, depth sensor","16 MP, f/2.0, 27mm (wide), 1/3.1"", 1.0µm",PowerVR GE8320,Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53),"64GB 4GB RAM, 128GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 3850 mAh battery,About 280 EUR
+HTC,Desire 12s,Android 8.1 (Oreo),"13 MP, f/2.0, PDAF","13 MP, f/2.2",Adreno 505,Octa-core 1.4 GHz Cortex-A53,"32GB 3GB RAM, 64GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 3075 mAh battery,About 200 EUR
+HTC,Exodus 1,Android 8.1 (Oreo),"12 MP, f/1.8, 1/2.55"", 1.4µm, dual pixel PDAF, Laser AF, OIS
+16 MP (12 MP effective), 1/3.1"", f/2.6, 1.0µm, 2x optical zoom, AF","8 MP, f/2.0, 1/4"", 1.12µm
+8 MP, f/2.0, 1/4"", 1.12µm",Adreno 630,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),128GB 6GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3500 mAh battery,About BTC 0.15/ETH 4.78(crypto curr)
+HTC,U12 life,Android 8.1 (Oreo),"16 MP, f/2.0, PDAF
+5 MP, depth sensor","13 MP, f/2.0",Adreno 509,Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver),"64GB 4GB RAM, 128GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3600 mAh battery,About 230 EUR
+HTC,U12+,"Android 8.0 (Oreo), upgradable to Android 9.0 (Pie); Sense UI","12 MP, f/1.8, 1/2.55"", 1.4µm, dual pixel PDAF, Laser AF, OIS
+16 MP (12 MP effective), 1/3.1"", f/2.6, 1.0µm, 2x optical zoom, AF","8 MP, f/2.0, 1/4"", 1.12µm
+8 MP, f/2.0, 1/4"", 1.12µm",Adreno 630,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),"64GB 6GB RAM, 128GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3500 mAh battery,About 450 EUR
+HTC,Desire 12+,Android 8.0 (Oreo),"13 MP, f/2.2, PDAF
+2 MP, depth sensor","8 MP, f/2.0",Adreno 506,Octa-core 1.8 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 2965 mAh battery,About 170 EUR
+Motorola,One Hyper,Android 10; Android One,"64 MP, f/1.8, (wide), 1/1.7"", 0.8µm, PDAF
+8 MP, 13mm (ultrawide)","Motorized pop-up 32 MP, f/2.0, 26mm (wide), 0.8µm",Adreno 612,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),128GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,NA
+Motorola,Razr 2019,Android 9.0 (Pie),"16 MP, f/1.7, 1.22um, Dual Pixel PDAF
+TOF 3D camera","5 MP, f/2.0, 1.12um",Adreno 616,Octa-core (2x2.2 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver),128GB 6GB RAM,"Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 2510 mAh battery,About 1600 EUR
+Motorola,Moto G8 Play,Android 9.0 (Pie),"13 MP, f/2.0, (wide), 1.25µm, PDAF
+8 MP, f/2.2, 14mm (ultrawide), 1.25µm, dedicated video camera (1080p)
+2 MP, f/2.2, depth sensor",8 MP,Mali-G72 MP3,Octa-core (4x2.1 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53),32GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity",Non-removable Li-Po 4000 mAh battery,$ 181.99
+Motorola,Moto E6 Play,Android 9.0 (Pie),"13 MP, f/2.2, 1/3.1"", 1.12µm, PDAF","5 MP, f/2.2, 1/5"", 1.12µm",PowerVR GE8100,Quad-core 1.5 GHz Cortex-A53,32GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Removable Li-Po 3000 mAh battery,$ 119.95
+Motorola,Moto G8 Plus,Android 9.0 (Pie),"48 MP, f/1.7, (wide), 1/2"", 0.8µm, PDAF, Laser AF
+16 MP, f/2.2, 14mm (ultrawide), dedicated video camera (1080p)
+5 MP, f/2.2, depth sensor","25 MP, f/2.0, 0.9µm",Adreno 610,Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,"$ 270.00 / £ 209.90 / € 269.99 / ₹ 13,999"
+Motorola,One Macro,Android 9.0 (Pie),"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF, Laser AF
+2 MP, f/2.2, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.2, 1/5"", 1.75µm, depth sensor","8 MP, f/2.2, 1/4"", 1.12µm",Mali-G72 MP3,Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,"$ 281.73 / £ 159.99 / € 199.99 / ₹ 9,999"
+Motorola,Moto E6 Plus,Android 9.0 (Pie),"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF
+2 MP, depth sensor","8 MP, f/2.0, 1/4"", 1.12µm",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,"32GB 2GB RAM, 64GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, proximity",Removable Li-Po 3000 mAh battery,"$ 129.95 / £ 99.99 / ₹ 7,366"
+Motorola,One Zoom,Android 9.0 (Pie),"48 MP, f/1.7, (wide), 1/2"", 0.8µm, PDAF, OIS
+8 MP, f/2.4, (telephoto), 3x optical zoom, OIS
+16 MP, f/2.2, 13mm (ultrawide)
+5 MP, depth sensor","25 MP, f/2.0, 0.9µm",Adreno 612,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),128GB 4GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 349.99 / £ 353.00 / € 381.36
+Motorola,One Action,Android 9.0 (Pie); Android One,"12 MP, f/1.8, 26mm (wide), 1/2.8"", 1.25µm, PDAF
+16 MP, f/2.2, 14mm (ultrawide), dedicated video camera (1080p)
+5 MP, depth sensor","12 MP, f/2.0, 26mm (wide), 1/2.8"", 1.25µm",Mali-G72 MP3,Octa-core (4x2.2 GHz Cortex-A73 & 4x1.6 GHz Cortex-A53),128GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3500 mAh battery,"$ 234.95 / £ 208.52 / € 201.00 / ₹ 13,999"
+Motorola,Moto E6,Android 9.0 (Pie),"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF","5 MP, f/2.0, 1/5"", 1.12µm",Adreno 505,Octa-core 1.4 GHz Cortex-A53,16GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Removable Li-Ion 3000 mAh battery,$ 79.99
+Lenovo,Yoga Smart Tab,Android 9.0 (Pie),"8 MP, AF",5 MP,Adreno 505,Octa-core (2x2.0 GHz Cortex-A53 & 6x1.45 GHz Cortex A53),64GB 4GB RAM,Accelerometer,Non-removable Li-Po 7000 mAh battery,About 320 EUR
+Lenovo,K10 Plus,Android 9.0 (Pie); ZUI 11,"13 MP, f/2.0, (wide), 1/3.1"", 1.12µm, PDAF
+8 MP, 13mm, (ultrawide), 1/4.0"", 1.12µm
+5 MP, f/2.2, depth sensor","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 506,Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 4050 mAh battery,"€ 190.50 / ₹ 10,999"
+Lenovo,K10 Note,Android 9.0 (Pie); ZUI 11,"16 MP, f/1.8, PDAF
+8 MP, f/2.4, (telephoto), PDAF, 2x optical zoom
+2 MP, f/2.2, depth sensor","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 616,Octa-core (2x2.2 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver),"64GB 4GB RAM, 128GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4050 mAh battery,"$ 289.00 / £ 224.00 / ₹ 13,999"
+Lenovo,A6 Note,Android 9.0 (Pie),"13 MP, f/2.0, 1/3.1"", 1.12µm, AF
+2 MP, f/2.4, depth sensor","5 MP, 1/5"", 1.12µm",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,"16GB 2GB RAM, 32GB 3GB RAM","Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 4000 mAh battery,About 100 EUR
+Lenovo,Tab M8 (FHD),Android 9.0 (Pie),"13 MP, AF",5 MP,PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,"16GB 2GB RAM, 32GB 3GB RAM","Accelerometer, proximity",Non-removable Li-Po 5000 mAh battery,About 160 EUR
+Lenovo,Tab M8 (HD),Android 9.0 (Pie),"5 MP, AF",2 MP,PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,"16GB 2GB RAM, 32GB 3GB RAM","Accelerometer, proximity",Non-removable Li-Po 5000 mAh battery,About 140 EUR
+Lenovo,Tab M7,Android 9.0 (Pie) - 2GB RAM; Android 9.0 Pie (Go edition) - 1GB RAM,2 MP,2 MP,Mali-400,Quad-core 1.3 GHz,"8GB 1GB RAM, 16GB 1GB RAM, 32GB 2GB RAM",Accelerometer,Non-removable Li-Po 3590 mAh battery,About 100 EUR
+Lenovo,Z6,Android 9.0 (Pie); ZUI 11,"24 MP, f/1.8, (wide), 1/2.8"", 0.9µm, PDAF
+8 MP, f/2.4, (telephoto), PDAF, 2x optical zoom
+5 MP, f/2.2, depth sensor","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 618,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),"64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM","Fingerprint (under display, optical), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 250 EUR
+Lenovo,Z6 Pro 5G,Android 9.0 (Pie); ZUI 11,"48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.4, (telephoto), PDAF
+16 MP, f/2.2, 12mm (ultrawide)
+2 MP, f/1.8, 2.9µm, PDAF, OIS (dedicated video camera)
+TOF 3D camera","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 512GB 12GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 400 EUR
+Lenovo,Z6 Youth,Android 9.0 (Pie); ZUI 11,"16 MP, f/1.8, PDAF
+8 MP, f/2.4, (telephoto), PDAF, 2x optical zoom
+5 MP, f/2.2, (wide)","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 616,Octa-core (2x2.2 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver),"64GB 4GB RAM, 128GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 4050 mAh battery,About 160 EUR
+Xiaomi,Redmi K30,Android 10; MIUI 11,"64 MP, f/1.9, 26mm (wide), 1/1.7"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","20 MP, f/2.2, 27mm (wide), 1/3.4"", 0.8µm
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor",Adreno 618,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),"64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4500 mAh battery,About 210 EUR
+Xiaomi,Redmi K30 5G,Android 10; MIUI 11,"64 MP, f/1.9, 26mm (wide), 1/1.7"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","20 MP, f/2.2, 27mm (wide), 1/3.4"", 0.8µm
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor",Adreno 620,Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver),"64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4500 mAh battery,About 260 EUR
+Xiaomi,Redmi Note 8T,Android 9.0 (Pie); MIUI 10,"48 MP, f/1.8, 26mm (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","13 MP, f/2.0, 1.12µm",Adreno 610,Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),"32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 159.00 / £ 136.00 / € 156.05
+Xiaomi,Mi Note 10 Pro,Android 9.0 (Pie); MIUI 11,"108 MP (8P lens), f/1.7, 25mm (wide), 1/1.33"", 0.8µm, PDAF, Laser AF, OIS
+12 MP, f/2.0, 50mm (telephoto), 1/2.55"", 1.4µm, Dual Pixel PDAF, Laser AF, 2x optical zoom
+5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0µm, PDAF, Laser AF, OIS, 5x optical zoom
+20 MP, f/2.2, 13mm (ultrawide), 1/2.8"", 1.0µm, Laser AF
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Adreno 618,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),256GB 8GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5260 mAh battery,$ 584.00
+Xiaomi,Mi Note 10,Android 9.0 (Pie); MIUI 11,"108 MP (7P lens), f/1.7, 25mm (wide), 1/1.33"", 0.8µm, PDAF, Laser AF, OIS
+12 MP, f/2.0, 50mm (telephoto), 1/2.55"", 1.4µm, Dual Pixel PDAF, Laser AF, 2x optical zoom
+5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0µm, PDAF, Laser AF, OIS, 5x optical zoom
+20 MP, f/2.2, 13mm (ultrawide), 1/2.8"", 1.0µm, Laser AF
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Adreno 618,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),128GB 6GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5260 mAh battery,$ 429.00 / £ 497.50 / € 499.90
+Xiaomi,Mi CC9 Pro,Android 9.0 (Pie); MIUI 11,"108 MP (8P lens - 256GB GB model), f/1.7, 25mm (wide), 1/1.33"", 0.8µm, PDAF, Laser AF, OIS
+12 MP, f/2.0, 50mm (telephoto), 1/2.55"", 1.4µm, Dual Pixel PDAF, Laser AF, 2x optical zoom
+5 MP (upscaled to 8MP), f/2.0, (telephoto), 1.0µm, PDAF, Laser AF, OIS, 5x optical zoom
+20 MP, f/2.2, 13mm (ultrawide), 1/2.8"", 1.0µm, Laser AF
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Adreno 618,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5260 mAh battery,$ 409.00
+Xiaomi,Mi Watch,Proprietary wearable platform,No,NA,Adreno 304,Quad-core 1.2 GHz Cortex-A7,8GB 1GB RAM,"Accelerometer, gyro, heart rate, barometer",Non-removable Li-Ion 570 mAh / 590 mAh battery,About 150 EUR
+Xiaomi,Redmi 8,Android 9.0 (Pie); MIUI 11,"12 MP, f/1.8, 1/2.55"", 1.4µm, Dual Pixel PDAF
+2 MP, depth sensor","8 MP, f/2.0, 1/4"", 1.12µm",Adreno 505,Octa-core (2x1.95 GHz Cortex-A53 & 6x1.45 GHz Cortex A53),"32GB 3GB RAM, 64GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 5000 mAh battery,"$ 111.16 / £ 118.26 / € 141.80 / ₹ 7,999"
+Xiaomi,Redmi 8A,Android 9.0 (Pie); MIUI 11,"12 MP, f/1.8, 1/2.55"", 1.4µm, dual pixel PDAF","8 MP, f/2.0, 1/4"", 1.12µm",Adreno 505,Octa-core (2x1.95 GHz Cortex-A53 & 6x1.45 GHz Cortex A53),"32GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM","Accelerometer, proximity, compass",Non-removable Li-Po 5000 mAh battery,"$ 95.99 / £ 89.99 / € 114.00 / ₹ 6,499"
+Xiaomi,Mi Mix Alpha,Android 10; MIUI 11,"108 MP, f/1.7, (wide), 1/1.33"", 0.8µm, PDAF, Laser AF
+12 MP, f/2.0, 54mm (telephoto), 1/2.55"", 1.4µm, Dual Pixel PDAF, Laser AF, 2x optical zoom
+20 MP, f/2.2, 13mm (ultrawide), 1/2.8"", 1.0µm, Laser AF",No - uses main camera,Adreno 640 (700 MHz),Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485),512GB 12GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 4050 mAh battery,About 2500 EUR
+Google,Pixel 4 XL,Android 10,"12.2 MP, f/1.7, 27mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS
+16 MP, f/2.4, 50mm (telephoto), 1/3.6"", 1.0µm, PDAF, OIS, 2x optical zoom","8 MP, f/2.0, 22mm (wide), 1.22µm, no AF
+TOF 3D camera",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"64GB 6GB RAM, 128GB 6GB RAM","Face ID, accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 3700 mAh battery,"$ 749.00 / £ 829.00 / € 887.00 / ₹ 109,990"
+Google,Pixel 4,Android 10,"12.2 MP, f/1.7, 27mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS
+16 MP, f/2.4, 50mm (telephoto), 1/3.6"", 1.0µm, PDAF, OIS, 2x optical zoom","8 MP, f/2.0, 22mm (wide), 1.22µm, no AF
+TOF 3D camera",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"64GB 6GB RAM, 128GB 6GB RAM","Face ID, accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 2800 mAh battery,"$ 695.00 / £ 649.99 / € 739.00 / ₹ 86,990"
+Google,Pixel 3a XL,"Android 9.0 (Pie), upgradable to Android 10","12.2 MP, f/1.8, 28mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","8 MP, f/2.0, 24mm (wide), 1/4"", 1.12µm",Adreno 615,Octa-core (2x2.0 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 3700 mAh battery,"$ 334.97 / £ 399.00 / € 434.00 / ₹ 34,999"
+Google,Pixel 3a,"Android 9.0 (Pie), upgradable to Android 10","12.2 MP, f/1.8, 28mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","8 MP, f/2.0, 24mm (wide), 1/4"", 1.12µm",Adreno 615,Octa-core (2x2.0 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 3000 mAh battery,"$ 276.99 / £ 365.00 / € 354.99 / ₹ 33,999"
+Google,Pixel 3 XL,"Android 9.0 (Pie), upgradable to Android 10","12.2 MP, f/1.8, 28mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","8 MP, f/1.8, 28mm (wide), PDAF
+8 MP, f/2.2, 19mm (ultrawide), no AF",Adreno 630,Octa-core (4x2.5 GHz Kryo 385 Gold & 4x1.6 GHz Kryo 385 Silver),"64GB 4GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 3430 mAh battery,"$ 343.99 / £ 399.00 / ₹ 29,799"
+Google,Pixel 3,"Android 9.0 (Pie), upgradable to Android 10","12.2 MP, f/1.8, 28mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, OIS","8 MP, f/1.8, 28mm (wide), PDAF
+8 MP, f/2.2, 19mm (ultrawide), no AF",Adreno 630,Octa-core (4x2.5 GHz Kryo 385 Gold & 4x1.6 GHz Kryo 385 Silver),"64GB 4GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Po 2915 mAh battery,"$ 314.97 / £ 439.00 / € 470.00 / ₹ 49,999"
+Google,Pixel XL,"Android 7.1 (Nougat), upgradable to Android 10","12.3 MP, f/2.0, 1/2.3"", 1.55µm, PDAF, Laser AF","8 MP, f/2.4, 1/3.2"", 1.4µm",Adreno 530,Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo),"32GB 4GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Ion 3450 mAh battery,"$ 109.95 / £ 165.00 / € 199.99 / ₹ 55,000"
+Google,Pixel 2 XL,"Android 8.0 (Oreo), upgradable to Android 10","12.2 MP, f/1.8, 27mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, Laser AF, OIS","8 MP, f/2.4, 25mm (wide), 1/3.2"", 1.4µm",Adreno 540,Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo),"64GB 4GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Ion 3520 mAh battery,$ 208.96 / £ 287.69 / € 262.00
+Google,Pixel 2,"Android 8.0 (Oreo), upgradable to Android 10","12.2 MP, f/1.8, 27mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, Laser AF, OIS","8 MP, f/2.4, 27mm (wide), 1/3.2"", 1.4µm",Adreno 540,Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo),"64GB 4GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Ion 2700 mAh battery,$ 177.96 / £ 185.00
+Google,Pixel,"Android 7.1 (Nougat), upgradable to Android 10","12.3 MP, f/2.0, 1/2.3"", 1.55µm, PDAF, Laser AF","8 MP, f/2.4, 1/3.2"", 1.4µm",Adreno 530,Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo),"32GB 4GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer",Non-removable Li-Ion 2770 mAh battery,$ 99.99
+Honor,V30 Pro,Android 10.0; Magic UI 3,"40 MP, f/1.6, 27mm (wide), 1/1.7"", PDAF, Laser AF, OIS
+8 MP, f/2.4, 80mm (telephoto), 1/4"", PDAF, Laser AF, OIS, 3x optical zoom
+12 MP, f/2.2, 16mm (ultrawide), 1.4µm, PDAF, Laser AF","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm
+8 MP, f/2.2, 17mm (ultrawide)",Mali-G76 MP16,Octa-core (2x2.86 GHz Cortex-A76 & 2x2.36 GHz Cortex-A76 & 4x1.95 GHz Cortex-A55),"128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4100 mAh battery,About 500 EUR
+Honor,V30,Android 10.0; Magic UI 3,"40 MP, f/1.8, 27mm (wide), 1/1.7"", PDAF, Laser AF
+8 MP, f/2.4, 80mm (telephoto), 1/4"", PDAF, Laser AF, OIS, 3x optical zoom
+8 MP, f/2.4, 16mm (ultrawide), no AF","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm
+8 MP, f/2.2, 17mm (ultrawide)",Mali-G76 MP16,Octa-core (2x2.86 GHz Cortex-A76 & 2x2.09 GHz Cortex-A76 & 4x1.86 GHz Cortex-A55),"128GB 6GB RAM, 128GB 8GB RAM","Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4200 mAh battery,About 430 EUR
+Honor,MagicWatch 2,Huawei wearable platform,No,NA,NA,NA,4GB,"Accelerometer, gyro, heart rate, barometer, compass",Non-removable Li-Ion 455 mAh battery,About 180 EUR
+Honor,9X,Android 9.0 (Pie); EMUI 9.1,"48 MP, f/1.8, 27mm (wide), 1/2.0"", 0.8µm, PDAF
+8 MP, f/2.4, 13mm (ultrawide)
+2 MP, f/2.4, (depth sensor)","Motorized pop-up 16 MP, f/2.2, 26mm (wide), 1/3"", 1.0µm",Mali-G51 MP4,Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53),"64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,£ 242.99 / € 270.00
+Honor,20 lite (China),Android 9.0 (Pie); EMUI 9.1,"48 MP, f/1.8, 28mm (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.4, 13mm (ultrawide)
+2 MP, f/2.4, depth sensor","16 MP, f/2.0, 26mm (wide), 1/3"", 1.0µm",Mali-G51 MP4,Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53),"64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM","Fingerprint (under display, optical), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 220 EUR
+Honor,Play 3e,Android 9.0 (Pie); EMUI 9.1,"13 MP, f/1.8, PDAF","5 MP, f/2.2",PowerVR GE8320,Octa-core (4x2.0 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53),"32GB 2GB RAM, 64GB 3GB RAM","Accelerometer, proximity",Non-removable Li-Po 3020 mAh battery,About 90 EUR
+Honor,Play 3,"Android 9.0 (Pie), EMUI 9.1","48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.4, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, depth sensor","8 MP, f/2.0",Mali-G51 MP4,Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53),"64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM","Accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 130 EUR
+Honor,20S,Android 9.0 (Pie); Magic 2.1,"48 MP, f/1.8, 28mm (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.4, 13mm (ultrawide)
+2 MP, f/2.4, 27mm (wide), dedicated macro camera","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Mali-G52 MP6,Octa-core (2x2.27 GHz Cortex-A76 & 6x1.88 GHz Cortex-A55),"128GB 6GB RAM, 128GB 8GB RAM","Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3750 mAh battery,About 250 EUR
+Honor,9X Pro (China),Android 9.0 (Pie); EMUI 9.1,"48 MP, f/1.8, (wide), 1/2.0"", 0.8µm, PDAF
+8 MP, f/2.4, 13mm (ultrawide)
+2 MP, f/2.4, (depth sensor)","Motorized pop-up 16 MP, f/2.2, 26mm (wide), 1/3"", 1.0µm",Mali-G52,Octa-core (2x2.27 GHz Cortex-A76 & 6x1.88 GHz Cortex-A55),"128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 269.88
+Honor,9X (China),Android 9.0 (Pie); EMUI 9.1,"48 MP, f/1.8, (wide), 1/2.0"", 0.8µm, PDAF
+2 MP, f/2.4, (depth sensor)","Motorized pop-up 16 MP, f/2.2, 26mm (wide), 1/3"", 1.0µm",Mali-G52,Octa-core (2x2.27 GHz Cortex-A76 & 6x1.88 GHz Cortex-A55),"64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM","Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 158.99
+Oppo,A11,Android 9.0 (Pie); ColorOS 6.0,"12 MP, f/1.8, (wide), PDAF
+8 MP, f/2.3, 13mm (ultrawide), 1/4"", 1.12µm, AF
+2 MP, f/2.4, 1/5"", 1.75µm
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","8 MP, f/2.0",Adreno 610,Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),"64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 256GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5000 mAh battery,About 200 EUR
+Oppo,K5,"Android 9.0 (Pie), planned upgrade to Android 10.0; ColorOS 6.1","64 MP, f/1.8, (wide), 1/1.7"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Adreno 618,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 357.77
+Oppo,Reno Ace,"Android 9.0 (Pie), planned upgrade to Android 10.0; ColorOS 6.1","48 MP, f/1.7, 26mm (wide), 1/2.0"", 0.8µm, PDAF, OIS
+13MP, f/2.4, (telephoto), 1/3.4"", 1.0µm, PDAF, 2x optical zoom
+8 MP, f/2.2, 13mm (ultrawide), 1/3.2"", 1.4µm
+2 MP B/W, f/2.4, 1/5"", 1.75µm","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 640 (700 MHz),Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485),"128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 549.99
+Oppo,Reno A,Android 9.0 (Pie); ColorOS 6,"16 MP, f/1.8, 1/2.8"", 1.12µm, PDAF
+2 MP, depth sensor","25 MP, f/2.4, 1/2.8"", 0.9µm",Adreno 616,Octa-core (2x2.2 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver),128GB 6GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3600 mAh battery,About 280 EUR
+Oppo,A5 (2020),Android 9.0 (Pie); ColorOS 6.1,"12 MP, f/1.8, (wide), 1/2.8"", 1.25µm, PDAF
+8 MP, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","8 MP, f/2.0",Adreno 610,Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),"64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5000 mAh battery,"$ 269.00 / ₹ 11,900"
+Oppo,A9 (2020),Android 9.0 (Pie); ColorOS 6.1,"48 MP, f/1.8, (wide), 1/2.3"", 0.8µm, PDAF
+8 MP, f/2.3, 13mm (ultrawide), 1/4"", 1.12µm, AF
+2 MP, f/2.4, 1/5"", 1.75µm
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 610,Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),"128GB 4GB RAM, 128GB 8GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5000 mAh battery,"$ 289.00 / £ 219.00 / ₹ 14,391"
+Oppo,Reno2,Android 9.0 (Pie); ColorOS 6.1,"48 MP, f/1.7, 26mm (wide), 1/2.0"", 0.8µm, PDAF, OIS
+13MP, f/2.4, (telephoto), 1/3.4"", 1.0µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/3.2"", 1.4µm
+2 MP B/W, f/2.4, 1/5"", 1.75µm","Motorized pop-up 16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 618,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),"128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,"$ 549.00 / £ 399.00 / € 468.00 / ₹ 27,999"
+Oppo,Reno2 F,Android 9.0 (Pie); ColorOS 6.1,"48 MP, f/1.7, 26mm (wide), 1/2.3"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP B/W, f/2.4, 1/5"", 1.75µm
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","Motorized pop-up 16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Mali-G72 MP3,Octa-core (4x2.1 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53),128GB 8GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,"$ 480.90 / £ 370.90 / ₹ 23,500"
+Oppo,Reno2 Z,Android 9.0 (Pie); ColorOS 6.1,"48 MP, f/1.7, 26mm (wide), 1/2.0"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP B/W, f/2.4, 1/5"", 1.75µm
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","Motorized pop-up 16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",PowerVR GM9446,Octa-core (2x2.2 GHz Cortex-A75 & 6x2.0 GHz Cortex-A55),"128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,"$ 519.00 / £ 329.99 / ₹ 21,998"
+Oppo,Reno Z,Android 9.0 (Pie); ColorOS 6,"48 MP, f/1.7, 26mm (wide), 1/2.0"", 0.8µm, PDAF
+5 MP, f/2.4, depth sensor","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",PowerVR GM9446,Octa-core (2x2.2 GHz Cortex-A75 & 6x2.0 GHz Cortex-A55),"128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4035 mAh battery,$ 441.25 / £ 279.99 / € 335.00
+Realme,5s,Android 9.0 (Pie); ColorOS 6,"48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","13 MP, f/2.0, 26mm (wide), 1/3"", 1.12µm",Adreno 610,Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),"64GB 4GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5000 mAh battery,"₹ 9,999"
+Realme,C2 2020,Android 9.0 (Pie); ColorOS 6 Lite,"13 MP, f/2.2, 1/3.1"", 1.12µm, PDAF
+2 MP, f/2.4, 1.75µm, depth sensor","5 MP, f/2.0, 1/5"", 1.12µm",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,"32GB 2GB RAM, 64GB 3GB RAM","Accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 100 EUR
+Realme,X2 Pro,"Android 9.0 (Pie), planned upgrade to Android 10.0; ColorOS 6.1","64 MP, f/1.8, 26mm (wide), 1/1.7"", 0.8µm, PDAF
+13 MP, f/2.5, 52mm (telephoto), 1/3.4"", 1.0µm, PDAF, 2x optical zoom
+8 MP, f/2.2, 16mm (ultrawide), 1/3.2"", 1.4µm, PDAF
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","16 MP, f/2.0, 25mm (wide), 1/3"", 1.0µm",Adreno 640 (700 MHz),Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485),"64GB 6GB RAM, 128GB 8GB RAM, 256GB 12GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,"$ 341.89 / ₹ 29,999"
+Realme,X2,"Android 9.0 (Pie), planned upgrade to Android 10.0; ColorOS 6","64 MP, f/1.8, (wide), 1/1.7"", 0.8µm, PDAF
+8 MP, f/2.3, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Adreno 618,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),"64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 194.88 / € 299.00
+Realme,XT 730G,"Android 9.0 (Pie), planned upgrade to Android 10.0; ColorOS 6","64 MP, f/1.8, (wide), 1/1.7"", 0.8µm, PDAF
+8 MP, f/2.3, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","16 MP, f/2.0, 25mm (wide), 1/3"", 1.0µm",Adreno 618,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),"64GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,NA
+Realme,XT,"Android 9.0 (Pie), planned upgrade to Android 10.0; ColorOS 6","64 MP, f/1.8, (wide), 1/1.7"", 0.8µm, PDAF
+8 MP, f/2.3, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","16 MP, f/2.0, 25mm (wide), 1/3"", 1.0µm",Adreno 616,Octa-core (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver),"64GB 4GB RAM, 64GB 6GB RAM, 128GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,"$ 299.00 / £ 219.00 / ₹ 15,999"
+Realme,Q,Android 9.0 (Pie); ColorOS 6,"48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","16 MP, f/2.0, 25mm (wide), 1/3"", 1.0µm",Adreno 616,Octa-core (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver),"64GB 4GB RAM, 64GB 6GB RAM, 128GB 8GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4035 mAh battery,$ 129.39
+Realme,5 Pro,"Android 9.0 (Pie), planned upgrade to Android 10.0; ColorOS 6","48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","16 MP, f/2.0, 25mm (wide), 1/3"", 1.0µm",Adreno 616,Octa-core (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver),"64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 8GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4035 mAh battery,"$ 129.39 / £ 224.00 / € 199.00 / ₹ 12,999"
+Realme,5,"Android 9.0 (Pie), planned upgrade to Android 10.0; ColorOS 6","12 MP, f/1.8, (wide), 1/2.9"", 1.25µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, 1/5"", 1.75µm, depth sensor","13 MP, f/2.0, 26mm (wide), 1/3"", 1.12µm",Adreno 610,Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),"32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5000 mAh battery,"$ 189.00 / £ 168.00 / ₹ 8,999"
+Realme,3i,"Android 9.0 (Pie), planned upgrade to Android 10.0; ColorOS 6","13 MP, f/1.8, 1/3.1"", 1.12µm, PDAF
+2 MP, depth sensor","13 MP, f/2.0, 1/3"", 1.12µm",Mali-G72 MP3,Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53),"32GB 3GB RAM, 64GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 4230 mAh battery,"$ 179.00 / £ 129.90 / ₹ 7,999"
+OnePlus,7T Pro 5G McLaren,Android 10.0; OxygenOS 10.0,"48 MP, f/1.6, (wide), 1/2"", 0.8µm, PDAF, Laser AF, OIS
+8 MP, f/2.4, (telephoto), 1.0µm, PDAF, OIS, 3x optical zoom
+16 MP, f/2.2, 13mm (ultrawide), AF","Motorized pop-up 16 MP, f/2.0, 25mm (wide), 1/3.1"", 1.0µm",Adreno 640 (700 MHz),Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),256GB 12GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4085 mAh battery,NA
+OnePlus,7T Pro,Android 10.0; OxygenOS 10.0.4,"48 MP, f/1.6, (wide), 1/2"", 0.8µm, PDAF, Laser AF, OIS
+8 MP, f/2.4, 78mm (telephoto), 3x optical zoom, PDAF, Laser AF, OIS
+16 MP, f/2.2, 13mm (ultrawide), AF","Motorized pop-up 16 MP, f/2.0, 25mm (wide), 1/3.1"", 1.0µm",Adreno 640 (700 MHz),Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"256GB 8GB RAM, 256GB 12GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4085 mAh battery,"$ 635.99 / £ 599.00 / € 759.00 / ₹ 53,999"
+OnePlus,7T,Android 10.0; OxygenOS 10.0.5,"48 MP, f/1.6, 26mm (wide), 1/2"", 0.8µm, PDAF, OIS
+12 MP, f/2.2, 51mm (telephoto), 1.0µm, PDAF, 2x optical zoom
+16 MP, f/2.2, 17mm (ultrawide), AF","16 MP, f/2.0, 25mm (wide), 1/3.1"", 1.0µm",Adreno 640 (700 MHz),Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3800 mAh battery,"$ 434.99 / £ 429.00 / € 572.00 / ₹ 34,999"
+OnePlus,7 Pro 5G,Android 9.0 (Pie); OxygenOS 9.5.11,"48 MP, f/1.6, (wide), 1/2"", 0.8µm, PDAF, Laser AF, OIS
+8 MP, f/2.4, 78mm (telephoto), 3x zoom, PDAF, Laser AF, OIS
+16 MP, f/2.2, 13mm (ultrawide)","Motorized pop-up 16 MP, f/2.0, 25mm (wide), 1/3.0"", 1.0µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"128GB 6GB RAM, 256GB 8GB RAM, 256GB 12GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 800 EUR
+OnePlus,7 Pro,Android 9.0 (Pie); OxygenOS 10.0.2,"48 MP, f/1.6, (wide), 1/2"", 0.8µm, PDAF, Laser AF, OIS
+8 MP, f/2.4, 78mm (telephoto), 3x optical zoom, PDAF, Laser AF, OIS
+16 MP, f/2.2, 13mm (ultrawide), AF","Motorized pop-up 16 MP, f/2.0, 25mm (wide), 1/3.0"", 1.0µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"128GB 6GB RAM, 256GB 8GB RAM, 256GB 12GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,"$ 489.99 / £ 439.75 / ₹ 39,999"
+OnePlus,7,"Android 9.0 (Pie), upgradable to Android 10.0; OxygenOS 10.0.2","48 MP, f/1.7, (wide), 1/2"", 0.8µm, PDAF, OIS
+5MP, f/2.4, 1.12µm, depth sensor","16 MP, f/2.0, 25mm (wide), 1/3.1"", 1.0µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"128GB 6GB RAM, 256GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3700 mAh battery,"$ 379.99 / £ 313.95 / € 549.00 / ₹ 26,999"
+OnePlus,6T McLaren,Android 9.0 (Pie); OxygenOS 9.0.16,"16 MP, f/1.7, 25mm (wide), 1/2.6"", 1.22µm, PDAF, OIS
+20 MP (16 MP effective), f/1.7, 25mm (wide), 1/2.8"", 1.0µm, PDAF","16 MP, f/2.0, 25mm (wide), 1/3.1"", 1.0µm",Adreno 630,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),256GB 10GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3700 mAh battery,About 700 EUR
+OnePlus,6T,"Android 9.0 (Pie), upgradable to Android 10; OxygenOS 10.0.1","16 MP, f/1.7, 25mm (wide), 1/2.6"", 1.22µm, PDAF, OIS
+20 MP (16 MP effective), f/1.7, 25mm (wide), 1/2.8"", 1.0µm, PDAF","16 MP, f/2.0, 25mm (wide), 1/3.1"", 1.0µm",Adreno 630,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3700 mAh battery,$ 334.95 / £ 369.95
+OnePlus,6,"Android 8.1 (Oreo), upgradable to Android 10; OxygenOS 10.0.1","16 MP, f/1.7, 25mm (wide), 1/2.6"", 1.22µm, PDAF, OIS
+20 MP (16 MP effective), f/1.7, 25mm (wide), 1/2.8"", 1.0µm, PDAF","16 MP, f/2.0, 25mm (wide), 1/3.1"", 1.0µm",Adreno 630,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),"64GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3300 mAh battery,$ 279.99 / £ 329.00
+OnePlus,5T,"Android 7.1.1 (Nougat), upgradable to Android 9.0 (Pie); OxygenOS 9.0.4","16 MP, f/1.7, 27mm (wide), 1/2.8"", 1.12µm, PDAF
+20 MP, f/1.7, 27mm (wide), 1/2.8"", 1.0µm, AF, PDAF","16 MP, f/2.0, 20mm (wide), 1/3.1"", 1.0µm",Adreno 540,Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo),"64GB 6GB RAM, 128GB 8GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3300 mAh battery,$ 224.39 / £ 264.99
+vivo,V17 (India),Android 9.0 (Pie); Funtouch 9.2,"48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, depth sensor","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Adreno 612,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),128GB 8GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4500 mAh battery,"₹ 22,990"
+vivo,iQOO Neo 855 Racing,Android 9.0 (Pie); Funtouch 9,"12 MP, f/1.8, 1/2.55"", 1.4µm, dual pixel PDAF
+8 MP, f/2.2, (wide)
+2 MP, f/2.4, depth sensor","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 640 (700 MHz),Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485),"128GB 8GB RAM, 128GB 12GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4500 mAh battery,About 330 EUR
+vivo,Y9s,Android 9.0 (Pie); Funtouch 9,"48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, depth sensor","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Adreno 610,Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),128GB 8GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4500 mAh battery,About 260 EUR
+vivo,Z5i,Android 9.0 (Pie); Funtouch 9.2,"16 MP, f/1.8, (wide), PDAF
+8 MP, f/2.2, 13mm (ultrawide)
+2 MP, f/2.4, macro camera","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 612,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),128GB 8GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 5000 mAh battery,About 230 EUR
+vivo,V17,Android 9.0 (Pie); Funtouch 9.2,"48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, depth sensor","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Adreno 610,Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),128GB 8GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4500 mAh battery,About 330 EUR
+vivo,S1 Pro,Android 9.0 (Pie); Funtouch 9.2,"48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+2 MP, f/2.4, depth sensor","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",Adreno 610,Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),128GB 8GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4500 mAh battery,$ 315.99
+vivo,S5,Android 9.0 (Pie); Funtouch 9.2,"48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2, 13mm (ultrawide), 1/4"", 1.12µm
+2 MP, f/2.4, 1/5"", 1.75µm (dedicated macro camera)
+5 MP, f/2.4, depth sensor","32 MP, f/2.4, 26mm (wide), 1/2.8"", 0.8µm",Adreno 616,Octa-core (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver),128GB 8GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4100 mAh battery,$ 512.49
+vivo,U20,Android 9.0 (Pie); Funtouch 9.2,"16 MP, f/1.8, (wide), PDAF
+8 MP, f/2.2, 13mm (ultrawide)
+2 MP, f/2.4, macro camera","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 612,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),"64GB 4GB RAM, 64GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 5000 mAh battery,"₹ 10,990"
+vivo,Y3 Standard,Android 9.0 (Pie); Funtouch 9.1,"13 MP, f/2.2, (wide), PDAF
+2 MP, f/2.4, depth sensor","8 MP, f/1.8",Adreno 505,Octa-core (2x1.95 GHz Cortex-A53 & 6x1.45 GHz Cortex A53),64GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 5000 mAh battery,About 130 EUR
+vivo,Y5s,Android 9.0 (Pie); Funtouch 9.2,"16 MP, f/1.8, (wide), PDAF
+8 MP, f/2.2, 13mm (ultrawide)
+2 MP, f/2.4, macro camera","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Mali-G52 MC2,Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55),128GB 6GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 5000 mAh battery,About 190 EUR
+Meizu,16T,Android 9.0 (Pie); Flyme 8,"12 MP, f/1.9, 24mm (wide), 1/2.55"", 1.4µm, PDAF
+8 MP, f/2.2, 15mm (ultrawide), 1/4"", 1.12µm, PDAF
+5 MP, f/1.9, 23mm (wide), 1/5"", 1.12µm, PDAF","16 MP, f/2.2, 26mm (wide), 1/3.1"", 1.0µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4500 mAh battery,$ 349.99
+Meizu,M10,Android 9.0 (Pie); Flyme 8,"13 MP, f/2.0, (wide), PDAF
+2 MP, f/2.2
+2 MP, f/2.2","8 MP, f/2.0",Mali-T880MP2,Octa-core (4x2.5 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53),"32GB 2GB RAM, 32GB 3GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 180 EUR
+Meizu,16s Pro,Android 9.0 (Pie); Flyme 8,"48 MP, f/1.7, (wide), 1/2"", 0.8µm, PDAF, OIS
+20MP, f/2.6, (telephoto), 1/2.8"", 1.0µm, PDAF
+16 MP, f/2.2, 16mm (ultrawide), 1/3.6"", 1.0µm","20MP, f/2.2",Adreno 640 (700 MHz),Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3600 mAh battery,About 340 EUR
+Meizu,16Xs,Android 9.0 (Pie); Flyme,"48 MP, f/1.7, 13mm (ultrawide), 1/2"", 0.8µm, PDAF
+8 MP, f/2.2
+5 MP, f/1.9, depth sensor","16 MP, f/2.2, 26mm (wide), 1/3.1"", 1.0µm",Adreno 612,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),"64GB 6GB RAM, 128GB 6GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 220 EUR
+Meizu,16s,Android 9.0 (Pie); Flyme 7.3,"48 MP, f/1.7, (wide), 1/2"", 0.8µm, PDAF, OIS
+20MP, f/2.6, (telephoto), PDAF","20MP, f/2.2",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3600 mAh battery,$ 399.99
+Meizu,Note 9,Android 9.0 (Pie); Flyme 7.2,"48 MP, f/1.7, (wide), 1/2"", 0.8µm, PDAF
+5 MP, depth sensor","20 MP, f/2.0, (wide), 1/2.8"", 1.0μm",Adreno 612,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),"64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 4000 mAh battery,About 200 EUR
+Meizu,C9 Pro,Android 8.0 (Oreo); Flyme UI,"13 MP, f/2.2, 1/3.1"", 1.12µm, AF","13 MP, f/2.0, 1/3.1"", 1.12µm",Mali-820MP1,Quad-core 1.3 GHz Cortex-A53,32GB 3GB RAM,"Accelerometer, proximity, compass",Removable Li-Ion 3000 mAh battery,About 110 EUR
+Meizu,Zero,Android 9.0 (Pie),"12 MP, f/1.8, 27mm (wide), 1/2.3"", 1.55µm, PDAF
+20 MP, PDAF","20 MP, f/2.0, (wide), 1/2.8"", 1.0μm",Adreno 630,Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver),"64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Ion battery,NA
+Meizu,C9,Android 8.0 (Oreo); Flyme UI,"13 MP, f/2.2, 1/3.1"", 1.12µm, AF","8 MP, f/2.2, 1/4"", 1.12µm",Mali-820MP1,Quad-core 1.3 GHz Cortex-A53,16GB 2GB RAM,"Accelerometer, proximity, compass",Removable Li-Ion 3000 mAh battery,About 90 EUR
+Meizu,Note 8,Android 8.0 (Oreo); Flyme 7.3,"12 MP, f/1.9, 1/2.55"", 1.4µm, Dual Pixel PDAF
+5 MP, depth sensor","8 MP, f/2.0",Adreno 506,Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3600 mAh battery,About 200 EUR
+BlackBerry,KEY2 LE,Android 8.1 (Oreo),"13 MP, f/2.2, 1/3.1"", 1.12µm, PDAF
+5 MP, f/2.4, 1.12µm, depth sensor",8 MP,Adreno 509,Octa-core (4x1.8 GHz Kryo 260 Gold & 4x1.6 GHz Kryo 260 Silver),"32GB 4GB RAM, 64GB 4GB RAM","Fingerprint (front-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 3000 mAh battery,$ 399.99 / £ 328.87 / € 363.55
+BlackBerry,Evolve X,Android 8.1 (Oreo),"12 MP, f/1.8, 1/2.8"", 1.29µm, PDAF
+13 MP, f/2.6, 1/3.4"", 1.0µm, 2х optical zoom, PDAF","16 MP, f/2.0, (wide), 1/3.1"", 1.0µm",Adreno 512,Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),64GB 6GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 4000 mAh battery,About 350 EUR
+BlackBerry,Evolve,Android 8.1 (Oreo),"13 MP, 1/3.1"", 1.12µm, PDAF
+13 MP B/W, 1/3.1"", 1.12µm, PDAF","16 MP, f/2.0, (wide), 1/3.1"", 1.0µm",Adreno 506,Octa-core 1.8 GHz Cortex-A53,64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 4000 mAh battery,About 300 EUR
+BlackBerry,KEY2,Android 8.1 (Oreo),"12 MP, f/1.8, 1/2.3"", 1.28µm, dual pixel PDAF
+12 MP, f/2.6, 1/3.4"", 1.0µm, PDAF","8 MP, f/2.0, 1/4"", 1.12µm",Adreno 512,Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),"64GB 6GB RAM, 128GB 6GB RAM","Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3500 mAh battery,About 500 EUR
+BlackBerry,Motion,Android 7.1 (Nougat),"12 MP, f/2.0, PDAF","8 MP, f/2.2, 1/4"", 1.12µm",Adreno 506,Octa-core 2.0 GHz Cortex-A53,32GB 4GB RAM,"Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 4000 mAh battery,About 390 EUR
+BlackBerry,Aurora,Android 7.0 (Nougat),"13 MP, AF",8 MP,Adreno 308,Quad-core 1.4 GHz Cortex-A53,32GB 4GB RAM,"Accelerometer, proximity, compass",Non-removable Li-Ion 3000 mAh battery,About 200 EUR
+BlackBerry,Keyone,"Android 7.1 (Nougat), upgradable to Android 8.0 (Oreo)","12 MP, f/2.0, 1/2.3"", 1.55µm, PDAF","8 MP, f/2.2, 1/4"", 1.12µm",Adreno 506,Octa-core 2.0 GHz Cortex-A53,"32GB 3GB RAM, 64GB 4GB RAM","Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3500 mAh battery,About 290 EUR
+BlackBerry,DTEK60,Android 6.0 (Marshmallow),"21 MP, f/2.0, PDAF","8 MP, f/2.2",Adreno 530,Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo),32GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3000 mAh battery,About 250 EUR
+BlackBerry,DTEK50,Android 6.0 (Marshmallow),"13 MP, f/2.0, PDAF","8 MP, f/2.2",Adreno 405,Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53),16GB 3GB RAM,"Accelerometer, gyro, proximity, compass",Non-removable Li-Ion 2610 mAh battery,About 200 EUR
+BlackBerry,Priv,"Android 5.1.1 (Lollipop), upgradable to 6.0.1 (Marshmallow)","18 MP, f/2.2, 27mm (wide), 1/2.4"", PDAF, OIS",2 MP,Adreno 418,Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57),32GB 3GB RAM,"Accelerometer, altimeter, gyro, ToF proximity, compass",Non-removable Li-Ion 3410 mAh battery,About 270 EUR
+Asus,ROG Phone II ZS660KL,"Android 9.0 (Pie), ROG UI","48 MP, f/1.8, 26mm (wide), 1/2"", 0.8µm, PDAF, Laser AF
+13 MP, f/2.4, 11mm (ultrawide)","24MP, f/2.2, 0.9µm",Adreno 640 (700 MHz),Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"128GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM","Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 6000 mAh battery,$ 569.99 / £ 410.80
+Asus,Zenfone 6 ZS630KL,"Android 9.0 (Pie), ZenUI 6","48 MP, f/1.8, 26mm (wide), 1/2"", 0.8µm, PDAF, Laser AF
+13 MP, f/2.4, 11mm (ultrawide)",Motorized flip-up main camera module,Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5000 mAh battery,"$ 550.99 / £ 451.55 / € 559.00 / ₹ 27,999"
+Asus,ZenFone Live (L2),Android 8.0 Oreo (Go edition); ZenUI 5,"8 MP or 13 MP, f/2.0, PDAF","5 MP, f/2.4",Adreno 308Adreno 505,Quad-core 1.4 GHz Cortex-A53Octa-core 1.4 GHz Cortex-A53,"16GB 2GB RAM, 32GB 2GB RAM","Accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3000 mAh battery,NA
+Asus,Zenfone Max Plus (M2) ZB634KL,Android 8.0 (Oreo),"12 MP, f/1.8, 1/2.9"", 1.25μm, PDAF
+5 MP, f/2.4, 1.12µm, depth sensor",8 MP,Adreno 506,Octa-core 1.8 GHz,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity",Non-removable Li-Po 4000 mAh battery,About 200 EUR
+Asus,Zenfone Max Shot ZB634KL,Android 8.0 (Oreo),"12 MP, f/1.8, 1/2.9"", 1.25μm, PDAF
+8 MP, 13mm (ultrawide), 1/4.0"", 1.12µm
+5 MP, f/2.4, 1.12µm, depth sensor",8 MP,Adreno 506,Octa-core 1.8 GHz,64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity",Non-removable Li-Po 4000 mAh battery,About 310 EUR
+Asus,Zenfone Max Pro (M2) ZB631KL,"Android 8.1 (Oreo), upgradable to Android 9.0 (Pie)","12 MP, f/1.8, 1/2.9"", 1.25μm, PDAF
+5 MP, f/2.4, 1.12µm, depth sensor","13MP, f/2.0, 1.12µm",Adreno 512,Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),"32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5000 mAh battery,"₹ 13,999"
+Asus,Zenfone Max (M2) ZB633KL,"Android 8.1 (Oreo), upgradable to Android 9.0 (Pie)","13 MP, f/1.8, 1/3.1"", 1.12µm, PDAF
+2 MP, depth sensor","8 MP, f/2.0, 1/4"", 1.12µm",Adreno 506,Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver),"32GB 3GB RAM, 64GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 4000 mAh battery,NA
+Asus,Zenfone Max (M1) ZB556KL,Android 8 (Oreo); ZenUI 5,"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF","8 MP, f/2.0, 25mm (wide), 1/4"", 1.12µm",Adreno 505,Octa-core 1.4 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 120 EUR
+Asus,ZenFone Lite (L1) ZA551KL,Android 8.0 Oreo,"13 MP, f/2.0, 1/3.1"", 1.12µm, PDAF","5 MP, f/2.4, 1/5"", 1.12µm",Adreno 505,Octa-core 1.4 GHz Cortex-A53,16GB 2GB RAM,"Accelerometer, proximity, compass",Non-removable Li-Ion 3000 mAh battery,About 80 EUR
+Asus,ROG Phone ZS600KL,"Android 8.1 (Oreo), upgradable to Android 9.0 (Pie); ROG Gaming X UI","12 MP, f/1.8, 24mm (wide), 1/2.55"", 1.4µm, dual pixel PDAF, 4-axis OIS
+8 MP, 12mm (ultrawide), no AF","8 MP, f/2.0, 24mm (wide)",Adreno 630,Octa-core (4x2.96 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),"128GB 8GB RAM, 512GB 8GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 4000 mAh battery,$ 399.99 / £ 423.93 / € 499.00
+Alcatel,3x (2019),Android 9.0 (Pie),"16 MP, f/1.8, 27mm (wide), 1/2.8"", 1.12µm, PDAF
+8 MP, f/2.2, 17mm (ultrawide), 1/4"", 1.12µm
+5 MP, depth sensor","8 MP, f/2.0, 25mm (wide), 1/4"", 1.12µm",Mali-G71 MP2,Octa-core (4x2.0 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53),"64GB 4GB RAM, 128GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 4000 mAh battery,$ 159.99 / £ 154.99 / € 155.00
+Alcatel,1v (2019),Android 9.0 Pie (Go edition),"5 MP, f/2.2, 28mm (wide), 1/5"", 1.12µm","5 MP, f/2.2, 28mm (wide), 1/5"", 1.12µm",IMG8322,Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55),16GB 1GB RAM,"Fingerprint (under display, optical) - market dependant, accelerometer, proximity",Removable Li-Ion 2460 mAh battery,About 80 EUR
+Alcatel,Smart Tab 7,Android 9.0 (Pie),"0.3 MP, f/2.4, 1/5""","2 MP, f/2.4, 1/5"", 1.65µm",IMG GE8300,Quad-core 1.3 GHz Cortex-A53,16GB 1.5GB RAM,Accelerometer,Non-removable Li-Ion 2580 mAh battery,About 80 EUR
+Alcatel,3T 10,Android 8.1 (Oreo),"2 MP, f/2.8, 1/5"", 1.65µm","2 MP, f/2.8, 1/5"", 1.65µm",NA,NA,16GB 2GB RAM,"Accelerometer, proximity",Non-removable Li-Ion 4080 mAh battery,NA
+Alcatel,3L,Android 8.1 (Oreo),"13 MP, f/2.0, 1/3.1"", 1.12µm
+5 MP, depth sensor","8 MP, f/2.0, 1/4"", 1.12µm",PowerVR GE8100 - EuropeAdreno 504,Quad-core 1.5 GHz Cortex-A53 - EuropeQuad-core 1.8 GHz Cortex-A53,16GB 2GB RAM,"Fingerprint (rear-mounted, market dependent), accelerometer, proximity",Li-Ion 3500 mAh battery,NA
+Alcatel,3 (2019),Android 8.1 (Oreo),"13 MP, f/2.0, 1/3.1"", 1.12µm
+5 MP, depth sensor","8 MP, f/2.0, 1/4"", 1.12µm",Adreno 505,Octa-core (2x2.0 GHz Cortex-A53 & 6x1.45 GHz Cortex A53),"32GB 3GB RAM, 64GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 3500 mAh battery,NA
+Alcatel,1s,Android 9.0 (Pie),"13 MP, f/2.0, 1/3.1"", 1.12µm
+2 MP, depth sensor","5 MP, f/2.2, 1/5"", 1.12µm",NA,Octa-core 1.6 GHz Cortex-A55,"32GB 3GB RAM, 64GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Ion 3060 mAh battery,NA
+Alcatel,1x (2019),Android 8.1 (Oreo),"13 MP
+2 MP",5 MP,PowerVR GE8100,Quad-core 1.5 GHz Cortex-A53,16GB 2GB RAM,"Fingerprint (rear-mounted, 5008T only), accelerometer, proximity","3,0000 mAh battery",About 120 EUR
+Alcatel,1c (2019), Android 8.1 Oreo (Go edition),5 MP,2 MP,NA,Quad-core 1.3 GHz Cortex-A53,8GB 1GB RAM,"Accelerometer, proximity",Li-Ion 2000 mAh battery,About 70 EUR
+Alcatel,1, Android 8.1 Oreo (Go edition),5 MP,2 MP,NA,Quad-core 1.3 GHz Cortex-A53,8GB 1GB RAM,"Accelerometer, proximity",Li-Ion 2000 mAh battery,About 40 EUR
+ZTE,Blade A7 Prime,Android 9.0 (Pie),"16 MP, f/2.0, PDAF","5 MP, f/2.2",PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 3200 mAh battery,About 90 EUR
+ZTE,Blade 10 Prime,Android 9.0 (Pie),"16 MP, f/1.8, PDAF
+5 MP, f/2.2, depth sensor","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Mali-G72 MP3,Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53),64GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 3200 mAh battery,About 160 EUR
+ZTE,Blade 20,Android 9.0 (Pie),"16 MP, f/2.0, PDAF
+8 MP, 12mm (ultrawide)
+2 MP, depth sensor","8 MP, f/2.4",Mali-G72 MP3,Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53),128GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 5000 mAh battery,About 130 EUR
+ZTE,nubia Red Magic 3s,Android 9.0 (Pie); Redmagic 2.0,"48 MP, f/1.7, 26mm (wide), 1/2.0"", 0.8µm, PDAF","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 640 (700 MHz),Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485),"128GB 8GB RAM, 256GB 12GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5000 mAh battery,"$ 489.00 / ₹ 35,999"
+ZTE,nubia Z20,Android 9.0 (Pie); Nubia UI 7,"48 MP, f/1.7, 26mm (wide), 1/2"", 0.8µm, PDAF, OIS
+8 MP, f/2.4, (telephoto), 3x optical zoom
+16 MP, f/2.2, 12mm (ultrawide), 1/3.1"", 1.0µm, AF",Uses main cameras,Adreno 640 (700 MHz),Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"128GB 6GB RAM, 128GB 8GB RAM, 512GB 8GB RAM","Dual fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 569.00
+ZTE,nubia X 5G,Android 9.0 (Pie),"16 MP, f/1.8, PDAF
+24 MP, f/1.7, PDAF",Uses main cameras,Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"64GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM","Dual fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3800 mAh battery,NA
+ZTE,Blade A5 (2019),Android 9.0 (Pie),"13 MP, f/2.0, AF","8 MP, f/2.4",NA,Octa-core 1.6 GHz,16GB 2GB RAM,"Accelerometer, proximity",Non-removable Li-Ion 2600 mAh battery,About 80 EUR
+ZTE,Blade A3 (2019),Android 9.0 Pie (Go edition),"8 MP, AF",5 MP,Mali-T820 MP1,Quad-core 1.4 GHz,16GB 1GB RAM,Accelerometer,Non-removable Li-Ion 2000 mAh battery,About 60 EUR
+ZTE,Blade L8,Android 9.0 Pie (Go edition),"8 MP, AF",5 MP,Mali-T820 MP1,Quad-core 1.3 GHz,16GB 1GB RAM,Accelerometer,Non-removable Li-Ion 2000 mAh battery,About 60 EUR
+ZTE,nubia Red Magic 3,Android 9.0 (Pie); Redmagic 2.0,"48 MP, f/1.7, 26mm (wide), 1/2.0"", 0.8µm, PDAF","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),"64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 12GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 5000 mAh battery,$ 459.00
+Microsoft,Lumia 650,Microsoft Windows 10,"8 MP, f/2.2, 28mm (wide), 1/4"", AF","5 MP, f/2.2",Adreno 304,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,"Accelerometer, proximity",Removable Li-Ion 2000 mAh battery,About 150 EUR
+Microsoft,Lumia 950 XL Dual SIM,Microsoft Windows 10,"20 MP, f/1.9, 26mm (wide), 1/2.4"", 1.12µm, AF, OIS","5 MP, f/2.4",Adreno 430,Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57),32GB 3GB RAM,"Iris scanner, accelerometer, gyro, proximity, compass, barometer, sensor core",Removable Li-Ion 3340 mAh battery,About 350 EUR
+Microsoft,Lumia 950 XL,Microsoft Windows 10,"20 MP, f/1.9, 26mm (wide), 1/2.4"", 1.12µm, AF, OIS","5 MP, f/2.4",Adreno 430,Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57),32GB 3GB RAM,"Iris scanner, accelerometer, gyro, proximity, compass, barometer, sensor core",Removable Li-Ion 3340 mAh battery,About 350 EUR
+Microsoft,Lumia 950 Dual SIM,Microsoft Windows 10,"20 MP, f/1.9, 26mm (wide), 1/2.4"", 1.12µm, AF, OIS","5 MP, f/2.4",Adreno 418,Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57),32GB 3GB RAM,"Iris scanner, accelerometer, gyro, proximity, compass, barometer, sensor core",Removable Li-Ion 3000 mAh battery,About 280 EUR
+Microsoft,Lumia 950,Microsoft Windows 10,"20 MP, f/1.9, 26mm (wide), 1/2.4"", 1.12µm, AF, OIS","5 MP, f/2.4",Adreno 418,Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57),32GB 3GB RAM,"Iris scanner, accelerometer, gyro, proximity, compass, barometer, sensor core",Removable Li-Ion 3000 mAh battery,About 280 EUR
+Microsoft,Lumia 550,Microsoft Windows 10,"5 MP, f/2.4, 1/4"", AF","2 MP, f/2.8",Adreno 304,Quad-core 1.1 GHz Cortex-A7,8GB 1GB RAM,"Accelerometer, proximity",Removable Li-Ion 2100 mAh battery,About 90 EUR
+Microsoft,Lumia 540 Dual SIM,Microsoft Windows Phone 8.1 with Lumia Denim,"8 MP, f/2.2, 28mm (wide), 1/4"", AF",5 MP,Adreno 302,Quad-core 1.2 GHz Cortex-A7,8GB 1GB RAM,"Accelerometer, proximity",Removable Li-Ion 2200 mAh battery,About 100 EUR
+Microsoft,Lumia 430 Dual SIM,"Microsoft Windows Phone 8.1, upgradable to Windows 10","2 MP, f/2.2, 1/5""",VGA,Adreno 302,Dual-core 1.2 GHz Cortex-A7,8GB 1GB RAM,"Accelerometer, proximity",Removable Li-Ion 1500 mAh battery,About 70 EUR
+Microsoft,Lumia 640 XL LTE Dual SIM,"Microsoft Windows Phone 8.1, upgradable to Microsoft Windows 10","13 MP, f/2.0, 28mm (wide), 1/3"", AF",5 MP,Adreno 305,Quad-core 1.2 GHz Cortex-A7,8GB 1GB RAM,"Accelerometer, proximity, compass, sensor core",Removable Li-Ion 3000 mAh battery,About 200 EUR
+Microsoft,Lumia 640 XL LTE,"Microsoft Windows Phone 8.1, upgradable to Microsoft Windows 10","13 MP, f/2.0, 28mm (wide), 1/3"", AF",5 MP,Adreno 305,Quad-core 1.2 GHz Cortex-A7,8GB 1GB RAM,"Accelerometer, proximity, compass, sensor core",Removable Li-Ion 3000 mAh battery,About 200 EUR
+Vodafone,Smart V10,Android 9.0 (Pie),"13 MP, AF
+5 MP",8 MP,Adreno 504,Quad-core 2.0 GHz Cortex-A53,32GB 3GB RAM,"Accelerometer, proximity",Non-removable Li-Ion 3400 mAh battery,About 180 EUR
+Vodafone,Smart N10,Android 9.0 (Pie),"13 MP, AF",8 MP,PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,16GB 2GB RAM,"Accelerometer, gyro, proximity",Non-removable Li-Ion 2920 mAh battery,About 150 EUR
+Vodafone,Smart E9,Android 8.1 Oreo (Go edition),5 MP,2 MP,PowerVR GE8100,Quad-core 1.5 GHz Cortex-A53,8GB 1GB RAM,"Accelerometer, proximity",Non-removable Li-Ion 2000 mAh battery,About 70 EUR
+Vodafone,Smart X9,Android 8.1 (Oreo),"16 MP, AF
+5 MP, depth sensor",8 MP,Adreno 506,Octa-core 1.8 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3100 mAh battery,About 110 EUR
+Vodafone,Smart N9,Android 8.1 (Oreo),"13 MP, AF",8 MP,Mali-T720MP2,Quad-core 1.3 GHz Cortex-A53,16GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro (market dependent), proximity, compass",Non-removable Li-Ion 2900 mAh battery,About 120 EUR
+Vodafone,Smart N9 lite,Android 8.1 Oreo (Go edition),"8 MP, AF",5 MP,Mali-T720MP2,Quad-core 1.3 GHz Cortex-A53,16GB 1GB RAM,"Accelerometer, gyro (market dependent), proximity, compass",Li-Ion 2460 mAh battery,About 100 EUR
+Vodafone,Smart Tab N8,Android 7.0 (Nougat),"5 MP, AF",2 MP,Mali-T720MP2,Quad-core 1.1 GHz Cortex-A7,16GB 2GB RAM,Accelerometer,Non-removable Li-Ion 4600 mAh battery,About 180 EUR
+Vodafone,Smart E8,Android 7.1 (Nougat),5 MP,2 MP,Adreno 304,Quad-core 1.1 GHz Cortex-A7,8GB 1GB RAM,"Accelerometer, proximity",Removable Li-Ion 2200 mAh battery,About 80 EUR
+Vodafone,Smart V8,Android 7.1.1 (Nougat),"16 MP, AF",8 MP,Adreno 505,Octa-core 1.4 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3000 mAh battery,About 230 EUR
+Vodafone,Smart N8,Android 7.0 (Nougat),"13 MP, AF",5 MP,Mali-T720MP2,Quad-core 1.3 GHz Cortex-A53,16GB 1.5GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Ion 2400 mAh battery,About 100 EUR
+Energizer,Energy E12,NA,VGA,VGA,NA,NA,4MB 4MB RAM,,Li-Ion 1000 mAh battery,About 10 EUR
+Energizer,Hardcase H10,NA,VGA,VGA,NA,NA,64MB 32MB RAM,,Li-Ion 1000 mAh battery,About 30 EUR
+Energizer,Power Max P8100S,Android 9.0 (Pie),"48 MP, f/1.8, (wide), 1/2"", 0.8µm, PDAF
+12 MP","24 MP, f/2.0, 26mm (wide), 1/2.8"", 0.9µm",Adreno 640,Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485),256GB 8GB RAM,"Accelerometer, gyro, proximity, compass","Non-removable Li-Po 10,000 mAh battery",About 900 EUR
+Energizer,Power Max P18K Pop,Android 9.0 (Pie),"12 MP, PDAF
+5 MP
+2 MP, depth sensor","16 MP, f/2.2, 26mm (wide), 1/3.1"", 1.0µm
+2 MP, depth sensor",Mali-G72 MP3,Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53),128GB 6GB RAM,"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass","Non-removable Li-Po 18,000 mAh battery",NA
+Energizer,Ultimate U620S Pop,Android 9.0 (Pie),"12 MP, PDAF
+5 MP
+2 MP, depth sensor","Motorized pop-up 16 MP, f/2.2, 26mm (wide), 1/3.1"", 1.0µm
+Motorized pop-up 2 MP, depth sensor",Mali-G72 MP3,Octa-core (4x2.1 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53),128GB 6GB RAM,"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3200 mAh battery,NA
+Energizer,Hardcase H570S,Android 9.0 (Pie),"13 MP, AF
+VGA, depth sensor",8 MP,PowerVR GE8100,Quad-core 1.5 GHz Cortex-A53,16GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Ion 6500 mAh battery,NA
+Energizer,Hardcase H501S,Android 9.0 (Pie),"16 MP, AF
+2 MP, depth sensor",5 MP,PowerVR GE8100,Quad-core 1.5 GHz Cortex-A53,16GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity",Non-removable Li-Ion 2500 mAh battery,NA
+Energizer,Hardcase H280S,KaiOS,5 MP,2 MP,NA,Dual-core (2x1.2 GHz),NA,,Li-Ion 2000 mAh battery,NA
+Energizer,Hardcase H241,KaiOS,2 MP,0.3 MP,NA,NA,128MB 64MB RAM,,Li-Ion 2500 mAh battery,NA
+Energizer,Hardcase H242,KaiOS,0.3 MP,0.3 MP,Mali-820,Quad-core 1.3 GHz Cortex-A53,512MB 256MB RAM,,Li-Ion 1500 mAh battery,NA
+Cat,S52,"Android 9.0 (Pie), planned upgrade to Android 10.0","12 MP, f/1.8, (wide), 1/2.55"", 1.4µm, dual pixel PDAF",8 MP,PowerVR GE8320,Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3100 mAh battery,$ 769.00 / £ 433.00 / € 469.00
+Cat,B35,KaiOS,2 MP,No,Adreno 304,Dual-core (2x1.3 GHz Cortex-A7),4GB 512MB RAM,Accelerometer,Non-removable Li-Ion 2300 mAh battery,About 110 EUR
+Cat,S41,Android 7.0 (Nougat),"13 MP, PDAF",8 MP,Mali-T880MP2,Octa-core (4x2.3 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53),32GB 3GB RAM,"Accelerometer, proximity, compass",Non-removable Li-Ion 5000 mAh battery,About 450 EUR
+Cat,S31,Android 7.0 (Nougat),"8 MP, AF",2 MP,Adreno 304,Quad-core 1.3 GHz Cortex-A7,16GB 2GB RAM,"Accelerometer, proximity, compass",Non-removable Li-Ion 4000 mAh battery,About 330 EUR
+Cat,S61,"Android 8.0 (Oreo), upgradable to Android 9.0 (Pie)","16 MP, PDAF, FLIR thermal camera (Lepton module)",8 MP,Adreno 508,Octa-core 2.2 GHz Cortex-A53,64GB 4GB RAM,"Accelerometer, gyro, proximity, compass, barometer, indoor air quality sensor",Non-removable Li-Ion 4500 mAh battery,About 900 EUR
+Cat,S60,Android 6.0 (Marshmallow),"13 MP, AF, FLIR thermal camera (Lepton module)",5 MP,Adreno 405,Octa-core (4x1.2 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53),32GB 3GB RAM,"Accelerometer, proximity, compass",Non-removable Li-Ion 3800 mAh battery,About 650 EUR
+Cat,S30,Android 5.1 (Lollipop),"5 MP, AF",2 MP,Adreno 304,Quad-core 1.1 GHz Cortex-A7,8GB 1GB RAM,"Accelerometer, proximity, compass",Non-removable Li-Ion 3000 mAh battery,About 340 EUR
+Cat,S40,Android 5.1 (Lollipop),"8 MP, AF",2 MP,Adreno 304,Quad-core 1.1 GHz Cortex-A7,16GB 1GB RAM,"Accelerometer, proximity, compass",Non-removable Li-Ion 3000 mAh battery,About 440 EUR
+Cat,B30,NA,2 MP,No,NA,NA,NA,,Non-removable Li-Ion 1000 mAh battery,About 140 EUR
+Cat,B15 Q,Android 4.4.2 (KitKat),"5 MP, AF",VGA,Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,4GB 1GB RAM,"Accelerometer, proximity",Removable Li-Ion 2000 mAh battery,About 320 EUR
+Sharp,Aquos V,Android 9.0 (Pie),"13 MP, f/2.0, PDAF, OIS
+13 MP B/W","8 MP, f/2.0",Adreno 540,Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 3090 mAh battery,About 210 EUR
+Sharp,Aquos Zero,Android 9.0 (Pie),"22.6 MP, f/1.9, 22 mm, PDAF, OIS","8 MP, f/2.2, 23 mm",Adreno 630,Octa-core (4x2.6 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),128GB 6GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3130 mAh battery,About 600 EUR
+Sharp,Aquos R2 compact,Android 9.0 (Pie),"22.6 MP, f/1.9, 22 mm, PDAF, OIS","8 MP, f/2.2, 23 mm",Adreno 630,Octa-core (4x2.6 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),64GB 4GB RAM,"Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 2500 mAh battery,NA
+Sharp,Aquos D10,Android 8.0 (Oreo); Sharp UI,"12 MP, f/1.8, 1/2.55"", 1.4µm, PDAF
+13 MP, 1/3.4"", 1.0µm","16 MP, f/2.0, (wide), 1/3.1"", 1.0µm",Adreno 508,Octa-core (4x2.6 GHz Cortex-A53 & 4x1.8 GHz Cortex A53),64GB 4GB RAM,"Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 2900 mAh battery,About 400 EUR
+Sharp,Aquos B10,"Android 7.0 (Nougat), Sharp UI","13 MP, f/2.0, AF
+8 MP","13 MP, f/2.2",Mali-T860MP2,Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53),32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Ion 4000 mAh battery,About 300 EUR
+Sharp,Aquos C10,Android 8.0 (Oreo); Sharp UI,"12 MP, f/1.8, 1/2.55"", 1.4µm, PDAF
+8 MP, f/2.0, 1/3.2"", 1.4µm","8 MP, f/2.0, 1/3.2"", 1.4µm",Adreno 508,Octa-core (4x2.2 GHz Cortex-A53 & 4x1.8 GHz Cortex A53),64GB 4GB RAM,"Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 2700 mAh battery,About 400 EUR
+Sharp,Aquos S3 High,Android 8.0 (Oreo),"12 MP, f/1.8, 1/2.55"", 1.4µm, dual pixel PDAF
+13 MP, 2x optical zoom","16 MP, f/2.0, (wide), 1/3.1"", 1.0µm",Adreno 512,Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver),64GB 8GB RAM,"Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3200 mAh battery,About 400 EUR
+Sharp,Aquos R2,Android 8.0 (Oreo),"22.6 MP, PDAF
+16.3 MP, PDAF (for video recording only)",16.3 MP,Adreno 630,Octa-core (4x2.6 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver),64GB 4GB RAM,"Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3130 mAh battery,About 350 EUR
+Sharp,Aquos S3,Android 8.0 (Oreo),"12 MP, f/1.8, 1/2.55"", 1.4µm, dual pixel PDAF
+13 MP, 2x optical zoom","16 MP, f/2.0, (wide), 1/3.1"", 1.0µm",Adreno 508,Octa-core 2.2 GHz Cortex-A53,64GB 6GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3200 mAh battery,About 400 EUR
+Sharp,Aquos S3 mini,Android 7.1.1 (Nougat),"16 MP, f/2.0, PDAF","20 MP, f/2.0, (wide), 1/3"", 0.9µm",Adreno 508,Octa-core 2.2 GHz Cortex-A53,64GB 6GB RAM,"Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3020 mAh battery,About 250 EUR
+Micromax,Infinity N12,Android 8.1 (Oreo),"13 MP, PDAF
+5 MP, depth sensor","16 MP, f/2.2, 26mm (wide), 1/3.1"", 1.0µm",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity",Non-removable Li-Po 4000 mAh battery,About 10000 INR
+Micromax,Infinity N11,Android 8.1 (Oreo),"13 MP, PDAF
+5 MP, depth sensor",8 MP,PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,32GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity",Non-removable Li-Po 4000 mAh battery,About 9000 INR
+Micromax,Bharat 5 Infinity,Android 8.1 Oreo (Go edition),5 MP,5 MP,PowerVR GE8100,Quad-core 1.5 GHz Cortex-A53,16GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 5000 mAh battery,About 5400 INR
+Micromax,Bharat Go,Android 8.0 Oreo (Go edition),5 MP,5 MP,Mali-T720MP1,Quad-core 1.1 GHz Cortex-A53,8GB 1GB RAM,Accelerometer,Removable Li-Ion 2000 mAh battery,About 4400 INR
+Micromax,Canvas 1 2018,Android 7.0 (Nougat),"8 MP, AF",5 MP,Mali-T720,Quad-core 1.3 GHz Cortex-A53,16GB 2GB RAM,"Accelerometer, proximity",Li-Ion 3000 mAh battery,About 7000 INR
+Micromax,Canvas Infinity Life,"Android 7.1.2 (Nougat), upgradable to Android 8.0 (Oreo)","13 MP, f/2.0, 1/3.1"", 1.12µm, AF","8 MP, f/2.0",Mali-T720MP1,Quad-core 1.4 GHz Cortex-A53,16GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Removable Li-Ion 2500 mAh battery,About 8500 INR
+Micromax,Bharat 5 Pro,Android 7.0 (Nougat),"13 MP, AF",5 MP,Mali-T720,Quad-core 1.3 GHz Cortex-A53,32GB 3GB RAM,Accelerometer,Non-removable Li-Po 5000 mAh battery,About 8000 INR
+Micromax,Bharat 5 Plus,Android 7.0 (Nougat),8 MP,5 MP,Mali-T720,Quad-core 1.3 GHz Cortex-A53,16GB 2GB RAM,Accelerometer,Non-removable Li-Po 5000 mAh battery,About 7200 INR
+Micromax,Bharat 5,Android 7.0 (Nougat),5 MP,5 MP,Mali-T720,Quad-core 1.3 GHz Cortex-A53,16GB 1GB RAM,Accelerometer,Non-removable Li-Po 5000 mAh battery,About 5700 INR
+Micromax,Canvas Infinity Pro,Android 8.0 (Oreo),"16 MP, f/2.0, AF","20 MP, f/2.0, (wide), 1/3"", 0.9µm
+8 MP, f/2.2",Adreno 505,Octa-core 1.4 GHz Cortex-A53,64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 3000 mAh battery,About 14000 INR
+BLU,C5 Plus,Android 8.1 Oreo (Go edition),"8 MP, AF",8 MP,Mali-400,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,Accelerometer,Li-Po 2200 mAh battery,About 60 USD
+BLU,C5 2019,Android 8.1 Oreo (Go edition),5 MP,5 MP,Mali-400,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,Accelerometer,Li-Po 2000 mAh battery,About 50 USD
+BLU,C6 2019,Android 8.1 Oreo (Go edition),"8 MP, 1/5"", 1.12µm, AF",8 MP,Mali-400,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Li-Po 2800 mAh battery,About 70 USD
+BLU,Advance L5,Android 8.1 Oreo (Go edition),5 MP,2 MP,NA,Quad-core 1.3 GHz Cortex-A7,16GB 512MB RAM,Accelerometer,Removable Li-Po 1300 mAh battery,About 50 USD
+BLU,Bold N1,"Android 9.0 (Pie), planned upgrade to Android 10.0","16 MP, f/1.8, 1/2.8"", PDAF
+5 MP, f/2.2, 1/5"", depth sensor","Motorized pop-up 13 MP, f/2.0, 1/4""",Mali-G72 MP3,Octa-core (4x2.1 GHz Cortex-A73 & 4x2.1 GHz Cortex-A53),128GB 4GB RAM,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3500 mAh battery,About 200 USD
+BLU,Studio Mini,Android 9.0 (Pie),"13 MP, AF",8 MP,IMG8322,Octa-core 1.6 GHz Cortex-A55,32GB 2GB RAM,"Accelerometer, proximity",Removable Li-Po 3000 mAh battery,About 80 USD
+BLU,Vivo X5,Android 9.0 (Pie),"13 MP, AF",8 MP,IMG8322,Octa-core 1.6 GHz Cortex-A55,64GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Removable Li-Po 2800 mAh battery,NA
+BLU,Vivo XL5,Android 9.0 (Pie),"13 MP, AF
+2 MP, depth sensor",13 MP,IMG8322,Octa-core 1.6 GHz Cortex-A55,64GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 4000 mAh battery,NA
+BLU,G9 Pro,"Android 9.0 (Pie), planned upgrade to Android 10.0","16 MP, f/1.8, 1/2.8"", PDAF
+20 MP, f/1.8, 1/2.8"" (wide)
+5 MP, f/2.2, 1/5"", depth sensor","24 MP, f/2.0, 26mm (wide), 1/2.8"", 0.9µm",Mali-G72 MP3,Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53),128GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,NA
+BLU,Studio Mega 2019,Android 9.0 (Pie),"13 MP, AF",8 MP,IMG8322,Octa-core 1.6 GHz Cortex-A55,32GB 2GB RAM,"Accelerometer, proximity",Removable Li-Po 3000 mAh battery,About 90 USD
+Acer,Chromebook Tab 10,Chrome OS,5 MP,2 MP,NA,Hexa-core (4x Cortex-A53 & 2x Cortex-A72),32GB 4GB RAM,Accelerometer,Non-removable Li-Po 4500 mAh battery (34 Wh),About 330 EUR
+Acer,Iconia Talk S,Android 6.0 (Marshmallow),"13 MP, AF",2 MP,Mali-T720MP2,Quad-core 1.3 GHz Cortex-A53,"16GB 2GB RAM, 32GB 2GB RAM","Accelerometer, proximity",Non-removable Li-Ion 3400 mAh battery (12.92 Wh),About 170 EUR
+Acer,Liquid Z6 Plus,Android 6.0 (Marshmallow),"13 MP, AF",5 MP,Mali-T720MP3,Octa-core 1.3 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (front-mounted), accelerometer, proximity",Non-removable Li-Po 4080 mAh battery,About 250 EUR
+Acer,Liquid Z6,Android 6.0 (Marshmallow),"8 MP, AF",2 MP,Mali-T720MP2,Quad-core 1.25 GHz Cortex-A53,8GB 1GB RAM,"Accelerometer, proximity",Removable Li-Ion 2000 mAh battery,About 120 EUR
+Acer,Iconia Tab 10 A3-A40,Android 6.0 (Marshmallow),5 MP,2 MP,Mali-T720 MP2,Quad-core 1.3 GHz Cortex-A53,"16GB 2GB RAM, 32GB 2GB RAM, 64GB 2GB RAM",Accelerometer,Non-removable Li-Ion 6100 mAh battery,About 230 EUR
+Acer,Liquid X2,Android 5.1 (Lollipop),"13 MP, f/1.8, AF","13 MP, f/1.8, AF",Mali-T720MP4,Octa-core 1.3 GHz Cortex-A53,32GB 3GB RAM,"Accelerometer, proximity, compass",Removable Li-Po 4020 mAh battery,About 230 EUR
+Acer,Liquid Jade 2,Android 6.0 (Marshmallow),"21 MP, AF",8 MP,Adreno 418,Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57),32GB 3GB RAM,"Accelerometer, gyro, proximity, compass",Non-removable Li-Po 3000 mAh battery,NA
+Acer,Liquid Zest Plus,Android 6.0 (Marshmallow),"13 MP, PDAF, Laser AF",5 MP,Mali-T720MP2,Quad-core 1.3 GHz Cortex-A53,16GB 2GB RAM,"Accelerometer, proximity, compass",Non-removable Li-Ion 5000 mAh battery,About 200 EUR
+Acer,Liquid Zest,Android 6.0 (Marshmallow),"8 MP, f/2.0, AF",5 MP,Mali-400MP2 - Z525Mali-T720MP2 - Z528,Quad-core 1.3 GHz - Z525Quad-core 1.0 GHz - Z528,8GB 1GB RAM,"Accelerometer, proximity, compass",Removable Li-Ion 2000 mAh battery,About 110 EUR
+Acer,Predator 8,Android 5.0 (Lollipop),5 MP,2 MP,NA,Quad-core 1.6 GHz,"32GB 2GB RAM, 64GB 2GB RAM",Yes,Non-removable Li-Po 4420 mAh battery,About 350 EUR
+Infinix,Smart 4,Android 9.0 Pie (Go edition),8 MP,5 MP,PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,16GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,NA
+Infinix,Smart 4c,Android 9.0 (Pie),"8 MP
+QVGA",5 MP,PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,32GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,NA
+Infinix,Hot 8 Lite,Android 8.1 Oreo (Go edition),"8 MP, f/1.8, PDAF
+QVGA (Low light sensor)",8 MP,NA,Quad-core 1.3 GHz,32GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 5000 mAh battery,NA
+Infinix,S5,Android 9.0 (Pie),"16 MP, f/1.8, (wide), PDAF
+5 MP, 14mm (ultrawide)
+2 MP, depth sensor","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 189.00 / £ 149.00
+Infinix,Hot 8,"Android 9.0 (Pie), XOS 5.0","13 MP, f/1.8, 26mm (wide), 1/3.1"", 1.12µm, PDAF
+2 MP, depth sensor
+QVGA (Low light sensor)","8 MP, f/2.0, 25mm (wide)",PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53Octa-core 1.8 GHz Cortex-A53,"32GB 2GB RAM, 64GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 5000 mAh battery,"₹ 6,999"
+Infinix,Note 6,Android 9.0 (Pie),"16 MP (wide), PDAF
+8 MP (ultrawide)
+2 MP, depth sensor","16 MP, f/2.0, 26mm (wide), 1/3"", 1.0µm",PowerVR GE8320,Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53),64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 180 EUR
+Infinix,Smart3 Plus,Android 9.0 (Pie),"13 MP, f/1.8, PDAF
+2 MP
+QVGA",8 MP,PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,"32GB 2GB RAM, 32GB 3GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 3500 mAh battery,"₹ 5,999"
+Infinix,S4,Android 9.0 (Pie),"13 MP, PDAF
+8 MP
+2 MP","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,"32GB 3GB RAM, 64GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,"£ 151.19 / ₹ 7,999"
+Infinix,Hot 7 Pro,Android 9.0 (Pie),"13 MP, AF
+2 MP, depth sensor","13 MP
+2 MP, depth sensor",Mali-T880MP2PowerVR GE8320,Octa-core (4x2.4 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)Octa-core 1.8 GHz Cortex-A53,"32GB 2GB RAM, 32GB 3GB RAM, 64GB 6GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 130 EUR
+Infinix,Hot 7,Android 8.0 Oreo (Go edition),"13 MP, AF
+QVGA, depth sensor",8 MP,NA,Quad-core 1.3 GHz,"16GB 1GB RAM, 32GB 2GB RAM, 64GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,$ 164.00 / £ 122.00
+Tecno,Camon 12 Pro,Android 9.0 (Pie); HIOS 5.5,"16 MP, PDAF
+8 MP
+2 MP, depth sensor","32 MP, f/2.0, 26mm (wide), 1/2.8"", 0.8µm",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,64GB 6GB RAM,"Fingerprint (under display, optical), accelerometer, proximity",Non-removable Li-Po 3500 mAh battery,About 10000 INR
+Tecno,Camon 12,Android 9.0 (Pie); HIOS 5.5,"16 MP, PDAF
+8 MP
+2 MP, depth sensor","16 MP, f/1.8, 26mm (wide), 1/3"", 1.0µm",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 4000 mAh battery,NA
+Tecno,Pouvoir 3 Air,"Android 9.0 Pie (Go edition), HIOS 5.0","8 MP, AF",8 MP,PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,16GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer",Non-removable Li-Po 5000 mAh battery,NA
+Tecno,Pouvoir 3 Plus,"Android 9.0 (Pie), HIOS 5.0","32 MP, AF",13 MP,PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,64GB 6GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 6000 mAh battery,NA
+Tecno,Pouvoir 3,Android 8.1 (Oreo); HIOS 4.1,"13 MP, AF","13 MP, f/2.0",PowerVR GE8100,Quad-core 1.3 GHz Cortex-A53,32GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 5000 mAh battery,NA
+Tecno,Spark 3,"Android 9.0 (Pie), HIOS 5.0","13 MP, AF",8 MP,PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,16GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Ion 3500 mAh battery,NA
+Tecno,Spark 3 Pro,"Android 9.0 (Pie), HIOS 5.0","13 MP, AF
+2 MP",8 MP,PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,32GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Ion 3500 mAh battery,NA
+Tecno,Spark Go,"Android 9.0 (Pie), HIOS 5.0","8 MP, f/2.0, AF","5 MP, f/2.2",PowerVR GE8320,Quad-core 2.0 GHz Cortex-A53,"16GB 1GB RAM, 16GB 2GB RAM","Fingerprint (rear-mounted), accelerometer, proximity",Removable Li-Ion 3000 mAh battery,NA
+Tecno,Pop 2 F,Android 8.1 Oreo (Go edition),5 MP,"8 MP, f/2.0",Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer",Removable Li-Ion 2400 mAh battery,NA
+Tecno,Pop 2 Plus,Android 8.1 Oreo (Go edition),5 MP,"8 MP, f/2.0",Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 5000 mAh battery,NA
+Wiko,Y80,Android 9.0 Pie,"13 MP, AF
+2 MP",5 MP,IMG8322,Octa-core 1.6 GHz,16GB 2GB RAM,"Accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 80 EUR
+Wiko,Sunny3,Android 8.0 Oreo (Go edition),5 MP,2 MP,Mali-T820 MP1,Quad-core 1.3 GHz Cortex-A7,8GB 512MB RAM,"Accelerometer, proximity",Removable Li-Ion 2000 mAh battery,NA
+Wiko,View3 Pro,Android 9.0 (Pie),"12 MP, 27mm (wide), 1/2.9"", 1.25µm, PDAF
+13 MP, 16mm (ulrawide)
+5 MP, depth sensor","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm, PDAF",Mali-G72 MP3,Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53),128GB 6GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 250 EUR
+Wiko,View3,Android 9.0 (Pie),"12 MP, 27mm (wide), 1/2.9"", 1.25µm, PDAF
+13 MP, 16mm (ulrawide)
+2 MP, depth sensor","8 MP, PDAF",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,64GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 180 EUR
+Wiko,View2 Go,Android 8.1 (Oreo),"12 MP, 1/2.9"", 1.25μm, PDAF","5 MP, f/2.0",Adreno 505,Octa-core 1.4 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,NA
+Wiko,View2 Plus,Android 8.1 (Oreo),"12 MP, 1/2.9"", 1.25μm, PDAF
+12 MP, 1/2.9"", 1.25μm, PDAF","8 MP, f/2.0",Adreno 506,Octa-core 1.8 GHz Cortex-A53,64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,NA
+Wiko,View Max,Android 8.1 (Oreo),"13 MP, PDAF",8 MP,PowerVR GE8100,Quad-core 1.3 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 4000 mAh battery,NA
+Wiko,View2 Pro,Android 8.0 (Oreo),"16 MP, f/1.8, dual pixel PDAF
+16 MP, f/1.8, dual pixel PDAF","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 506,Octa-core 1.8 GHz Cortex-A53,64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3000 mAh battery,About 300 EUR
+Wiko,View2,Android 8.0 (Oreo),"13 MP, PDAF","16 MP, f/2.0, 26mm (wide), 1/3.1"", 1.0µm",Adreno 505,Octa-core 1.4 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3000 mAh battery,About 200 EUR
+Wiko,View Prime,Android 7.1 (Nougat),"16 MP, AF","20 MP, f/2.0, (wide), 1/2.8"", 1.0μm
+8 MP",Adreno 505,Octa-core 1.4 GHz Cortex-A53,64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Po 3000 mAh battery,About 190 EUR
+Panasonic,Eluga I7 (2019),Android 9.0 (Pie),"8 MP, f/2.0, 1.12 µm, AF","8 MP, f/2.0, 1/4"", 1.12µm",NA,Quad-core 1.5 GHz,16GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 4000 mAh battery,About 9990 INR
+Panasonic,Eluga Ray 800,Android 7.0 (Nougat),"13 MP, f/2.0, PDAF",8 MP,NA,Octa-core 1.8 GHz,64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 4000 mAh battery,About 10000 INR
+Panasonic,P85 Nxt,Android 7.1.2 (Nougat),"8 MP, AF","5 MP, AF",Adreno 304,Quad-core 1.3 GHz Cortex-A7,16GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Ion 4000 mAh battery,About 7000 INR
+Panasonic,Eluga Z1 Pro,Android 8.1 (Oreo),"13 MP, f/2.0, 27mm (wide), 1/3.1"", 1.12µm, PDAF
+2 MP, f/2.8, depth sensor","8 MP, f/2.2",PowerVR GE8320,Octa-core 2.0 GHz Cortex-A53,"32GB 3GB RAM, 64GB 4GB RAM","Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Po 4000 mAh battery,About 200 EUR
+Panasonic,Eluga Ray 530,Android 8.0 (Oreo),"13 MP, AF",5 MP,NA,Quad-core 1.3 GHz,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Ion 3000 mAh battery,About 9000 INR
+Panasonic,Eluga Ray 600,Android 8.1 (Oreo),"13 MP, AF",8 MP,Mali-T720MP2,Quad-core 1.3 GHz Cortex-A53,32GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Ion 4000 mAh battery,About 8000 INR
+Panasonic,Eluga X1 Pro,Android 8.1 (Oreo),"16 MP, PDAF
+5 MP, depth sensor","16 MP, f/2.2, 1/3.1"", 1.0µm",Mali-G72 MP3,Octa-core (4x2.0 GHz Cortex-A73 & 4x2.0 GHz Cortex-A53),"64GB 4GB RAM, 128GB 6GB RAM","Infrared face recognition, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3000 mAh battery,About 350 EUR
+Panasonic,P90,Android 7.0 (Nougat),"5 MP, AF",5 MP,Mali-T720,Quad-core 1.3 GHz Cortex-A53,16GB 1GB RAM,"Accelerometer, proximity",Li-Ion 2400 mAh battery,About 6000 INR
+Panasonic,P95,Android 7.1.2 (Nougat),"8 MP, AF",5 MP,Adreno 304,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,"Accelerometer, proximity",Li-Ion 2300 mAh battery,About 5000 INR
+Panasonic,Eluga I7,Android 7.0 (Nougat),"8 MP, f/2.0, 1.12 µm, AF","8 MP, f/2.0, 1/4"", 1.12µm",Mali-T720MP2,Quad-core 1.25 GHz Cortex-A53,16GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity, compass",Non-removable Li-Ion 4000 mAh battery,About 6500 INR
+YU,Ace,Android 8.0 (Oreo),"13 MP, AF",5 MP,PowerVR GE8100,Quad-core 1.5 GHz Cortex-A53,"16GB 2GB RAM, 32GB 3GB RAM","Fingerprint (rear-mounted), accelerometer, proximity",Removable Li-Po 4000 mAh battery,About 6000 INR
+YU,Yureka 2,Android 6.0 (Marshmallow),"16 MP, AF",8 MP,Adreno 506,Octa-core 2.0 GHz Cortex-A53,64GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3930 mAh battery,About 12000 INR
+YU,Yunique 2,Android 7.0 (Nougat),"13 MP, f/2.0, AF",5 MP,Mali-T720,Quad-core 1.3 GHz Cortex-A53,16GB 2GB RAM,"Accelerometer, proximity",Removable Li-Po 2500 mAh battery,About 6000 INR
+YU,Yureka Black,Android 6.0 (Marshmallow),"13 MP, 1/3.1"", 1.12µm, PDAF",8 MP,Adreno 505,Octa-core 1.4 GHz Cortex-A53,32GB 4GB RAM,"Fingerprint (front-mounted), accelerometer, proximity",Non-removable Li-Po 3000 mAh battery,About 9000 INR
+YU,Yunique Plus,Android 5.1.1 (Lollipop),"8 MP, f/2.0, AF",2 MP,Adreno 306,Quad-core 1.2 GHz Cortex-A53,8GB 2GB RAM,"Accelerometer, proximity",Non-removable Li-Po 2000 mAh battery,About 80 EUR
+YU,Yureka S,Android 5.1.1 (Lollipop),"13 MP, f/2.2, 1/3.1"", 1.12µm, AF","5 MP, f/2.2",Adreno 405,Octa-core (4x1.7 GHz Cortex-A53 & 4x1.1 GHz Cortex-A53),16GB 3GB RAM,"Accelerometer, gyro, proximity, compass",Non-removable Li-Ion 3000 mAh battery,About 170 EUR
+YU,Yunicorn,Android 5.1.1 (Lollipop),"13 MP, f/2.2, PDAF","5 MP, f/2.0",Mali-T860MP2,Octa-core (4x1.8 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53),32GB 4GB RAM,"Fingerprint (front-mounted), accelerometer, proximity",Non-removable Li-Po 4000 mAh battery,About 180 EUR
+YU,Yureka Note,Android 5.1.1 (Lollipop),"13 MP, PDAF",8 MP,Mali-T720MP3,Octa-core 1.5 GHz Cortex-A53,16GB 3GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity",Non-removable Li-Po 4000 mAh battery,About 180 EUR
+YU,Yutopia,"Android 5.1.1 (Lollipop), Cyanogen 12.1","21 MP, f/2.2, 27mm (wide), 1/2.4"", 1.12µm, PDAF, OIS","8 MP, f/2.2, 1/3.2"", 1.4µm",Adreno 430,Octa-core (4x2.0 GHz Cortex A57 & 4x1.5 GHz Cortex-A53),32GB 4GB RAM,"Fingerprint (rear-mounted), accelerometer, gyro, proximity, barometer, compass",Non-removable Li-Po 3000 mAh battery,About 420 EUR
+YU,Yunique,Android 5.1.1 (Lollipop),"8 MP, f/2.0, AF",2 MP,Adreno 306,Quad-core 1.2 GHz Cortex-A53,8GB 1GB RAM,"Accelerometer, proximity",Non-removable Li-Po 2000 mAh battery,About 70 EUR
+verykool,s5702 Royale Quattro,Android 7.0 (Nougat),"13 MP, AF
+2 MP, depth sensor","5 MP
+2 MP, depth sensor",Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,16GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Non-removable Li-Po 3200 mAh battery,NA
+verykool,s5037 Apollo Quattro,Android 7.0 (Nougat),"13 MP, AF
+2 MP, depth sensor","5 MP
+2 MP, depth sensor",Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,8GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer",Non-removable Li-Po 2000 mAh battery,NA
+verykool,s5036 Apollo,Android 7.0 (Nougat),"8 MP, AF
+2 MP, depth sensor",5 MP,Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,8GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer",Removable Li-Po 2000 mAh battery,NA
+verykool,s5200 Orion,Android 7.0 (Nougat),"8 MP, AF",5 MP,Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer",Removable Li-Ion 2000 mAh battery,NA
+verykool,s5031 Bolt Turbo,Android 7.0 (Nougat),"8 MP, AF",8 MP,Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,16GB 2GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Li-Ion 2000 mAh battery,NA
+verykool,sl5029 Bolt Pro LTE,Android 7.0 (Nougat),"8 MP, AF",5 MP,Mali-T720,Quad-core 1.25 GHz Cortex-A53,8GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer",Li-Ion 2000 mAh battery,NA
+verykool,s5029 Bolt Pro,Android 7.0 (Nougat),8 MP,5 MP,Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,8GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer, proximity",Li-Ion 2000 mAh battery,NA
+verykool,s5205 Orion Pro,Android 7.0 (Nougat),"8 MP, AF",8 MP,Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,"Fingerprint (rear-mounted), accelerometer",Li-Ion 2000 mAh battery,NA
+verykool,s6005X Cyprus Pro,Android 7.0 (Nougat),"13 MP, f/2.2, AF","8 MP, f/2.8",Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,"Accelerometer, proximity",Li-Ion 3000 mAh battery,NA
+verykool,s5527 Alpha Pro,Android 6.0 (Marshmallow),"13 MP, f/2.2, AF","8 MP, f/2.8",Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,"Accelerometer, proximity",Removable Li-Po 2800 mAh battery,NA
+Plum,Tag 2 3G,NA,1.3 MP,No,Mali-400,1.2 GHz Cortex-A7,512MB 256MB RAM,,Removable Li-Ion 800 mAh battery,NA
+Plum,Phantom 2,Android 8.0 Oreo (Go edition),8 MP,5 MP,Mali-400,Quad-core 1.3 GHz Cortex-A7,8GB 1GB RAM,Accelerometer,Removable Li-Ion 2700 mAh battery,NA
+Plum,Optimax 13,Android 8.0 Oreo (Go edition),5 MP,2 MP,Mali-400,Quad-core 1.3 GHz Cortex-A7,8GB 1GB RAM,Accelerometer,Non-removable Li-Ion 4700 mAh battery,NA
+Plum,Flipper 2,NA,1.3 MP,No,NA,NA,"32MB ROM, 32MB RAM",,Removable Li-Ion 750 mAh battery,NA
+Plum,Ram 8,NA,5 MP,,No,NA,128MB 64MB RAM,,Removable Li-Ion 1200 mAh battery,NA
+Plum,Gator 5,Android 8.1 (Oreo),"13 MP, AF",5 MP,Mali-400MP2,Quad-core 1.3 GHz Cortex-A7,16GB 2GB RAM,"Accelerometer, proximity",Non-removable Li-Ion 3700 mAh battery,NA
+Plum,Tag 3G,NA,1.3 MP,No,NA,NA,"128MB ROM, 64MB RAM",,Removable Li-Ion 800 mAh battery,NA
+Plum,Optimax 11,Android 6.0 (Marshmallow),5 MP,2 MP,Mali-400,Quad-core 1.3 GHz Cortex-A7,16GB 1GB RAM,Accelerometer,Li-Ion 3500 mAh battery,NA
+Plum,Optimax 12,Android 6.0 (Marshmallow),5 MP,2 MP,Mali-400,Quad-core 1.3 GHz Cortex-A7,8GB 1GB RAM,Accelerometer,Li-Ion 2400 mAh battery,NA
+Plum,Optimax 2,Android 6.0 (Marshmallow),5 MP,2 MP,Mali-400,Quad-core 1.2 GHz Cortex-A7,8GB 1GB RAM,Accelerometer,Li-Ion 2400 mAh battery,NA
